@@ -1,32 +1,21 @@
 <html>
-    <head>
-        <meta charset="utf-8">
-        <link href='http://fonts.googleapis.com/css?family=Julius+Sans+One|Josefin+Sans|Roboto+Slab:400,300|Lato|Open+Sans:300|Noto+Sans:400italic' rel='stylesheet' type='text/css'>
-        <link href="{{ site.baseurl }}/stylesheet/style.css" rel="stylesheet" type="text/css">
-
-        <title>Dos viajeros sin memoria</title>
-    </head>
-
+    {% include head.html %}
     <body>
         <div id="wrapper">
-            <!-- Header -->
             {% include header.html %}
 
             <!-- Post -->
             <div id="post">
                 <h1>{{ page.title }}</h1>
 
-                <h2>Posteado el {{ page.date | date: "%d de %m de %Y }} por <a href="#">Andrea</a></h2>
+                <h2>Posteado el {{ page.date | date: "%d de %m de %Y }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author }}</a></h2>
 
                 <div class="body">
                     {{ content }}
                 </div>
             </div>
 
-            <!-- Side Panel -->
-            {% include sidepanel.html %}
-
-            <div class="clearfix"></div>
+            {% include sidebar.html %}
 
             {% include footer.html %}
         </div>

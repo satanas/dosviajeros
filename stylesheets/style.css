@@ -63,7 +63,7 @@ blockquote {
     /*border: 1px solid #000;*/
 }
 
-#side-panel {
+#sidebar {
     float: left;
     width: 208px;
     height: 400px;
@@ -72,11 +72,11 @@ blockquote {
     margin-top: 45px;
 }
 
-#side-panel ul {
+#sidebar ul {
     list-style-type: none;
 }
 
-#side-panel ul li {
+#sidebar ul li {
     font-family: 'Lato', sans-serif;
     font-size: 13px;
     border-left: 4px solid #eaeaea;
@@ -84,7 +84,7 @@ blockquote {
     margin: 2px 0;
 }
 
-#side-panel ul li a {
+#sidebar ul li a {
     display: table-cell;
     height: 28px;
     text-align: center;
@@ -94,11 +94,11 @@ blockquote {
     text-decoration: none;
 }
 
-#side-panel ul li:hover {
+#sidebar ul li:hover {
     border-color: #f1592a;
 }
 
-#side-panel ul li a:hover {
+#sidebar ul li a:hover {
     color: #f1592a;
 }
 

@@ -1,0 +1,10 @@
+auto: true
+server: true
+permalink: "/:year/:month/:day/:title"
+baseurl: "http://dosviajerossinmemoria.com"
+name: "dosviajeros"
+description: "Dos viajeros sin memoria"
+markdown: html
+exclude:
+- .gitignore
+- README.md
