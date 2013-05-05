@@ -1,21 +1,11 @@
-<!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body>
-        <div id="wrapper">
-            {% include header.html %}
-
-            <ul>
-            {% for post in site.posts %}
-                {% unless post.draft %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endunless %}
-            {% endfor %}
-            </ul>
-
-            {% include sidebar.html %}
-
-            {% include footer.html %}
-        </div>
-    </body>
-</html>
+---
+layout: default
+title: Dos viajeros sin memoria
+---
+<ul>
+{% for post in site.posts %}
+    {% unless post.draft %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endunless %}
+{% endfor %}
+</ul>
