@@ -4,7 +4,7 @@ permalink: "/:year/:month/:day/:title"
 baseurl: "http://dosviajerossinmemoria.com"
 name: "dosviajeros"
 description: "Dos viajeros sin memoria"
-markdown: html
+markdown: rdiscount
 exclude:
 - .gitignore
 - README.md
