@@ -9,7 +9,7 @@
             <div id="post">
                 <h1>{{ page.title }}</h1>
 
-                <h2>Posteado el {{ page.date | date: "%d de %m de %Y }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author }}</a></h2>
+                <h2>Posteado el {{ page.date | date: "%d de %m de %Y" }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author }}</a></h2>
 
                 <div class="body">
                     {{ content }}
