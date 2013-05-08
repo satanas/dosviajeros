@@ -140,6 +140,11 @@ header {
     margin-bottom: 20px;
 }
 
+#sidebar #social div {
+    float: left;
+    width: 120px;
+}
+
 .menu-item {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;

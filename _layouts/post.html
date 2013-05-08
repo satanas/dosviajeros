@@ -12,9 +12,16 @@
                 <h2>Posteado el {{ page.date | date: "%d de %m de %Y" }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author }}</a></h2>
 
                 <div id="social">
-                    <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}">Tweet</a>
-                    <p><g:plusone size="medium"></g:plusone></p>
-                    <div class="fb-send" data-href="{{ post.url }}" data-font="verdana"></div>
+                    <div>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}">Tweet</a>
+                    </div>
+                    <div>
+                        <p><g:plusone size="medium"></g:plusone></p>
+                    </div>
+                    <div>
+                        <div class="fb-send" data-href="{{ post.url }}" data-font="verdana"></div>
+                    </div>
+                    <div class="clearfix"></div>
                 </div>
 
                 <div class="body">
