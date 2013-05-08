@@ -140,9 +140,9 @@ header {
     margin-bottom: 20px;
 }
 
-#sidebar #social div {
+#social div {
     float: left;
-    width: 120px;
+    width: 150px;
 }
 
 .menu-item {
