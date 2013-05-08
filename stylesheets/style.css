@@ -77,8 +77,12 @@ header {
 #post h2 {
     font-weight: 300;
     font-size: 13px;
-    margin: 10px 0 15px 0;
+    margin: 10px 0 10px 0;
     color: #aaa;
+}
+
+#post .body {
+    margin-top: 20px;
 }
 
 #post .body p {

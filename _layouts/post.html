@@ -13,7 +13,7 @@
 
                 <div id="social">
                     <div>
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}">Tweet</a>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}" data-text="{{ page.title }} - {{ page.url }}">Tweet</a>
                     </div>
                     <div>
                         <p><g:plusone size="medium"></g:plusone></p>
@@ -21,7 +21,6 @@
                     <div>
                         <div class="fb-send" data-href="{{ post.url }}" data-font="verdana"></div>
                     </div>
-                    <div class="clearfix"></div>
                 </div>
                 <div class="clearfix"></div>
 
