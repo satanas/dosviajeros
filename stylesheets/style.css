@@ -136,11 +136,6 @@ header {
     color: #f1592a;
 }
 
-#sidebar #twitter-accounts div {
-    background: url('http://satanas.github.io/dosviajeros/images/twitter.png') no-repeat;
-    padding-left: 24px;
-}
-
 .menu-item {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
