@@ -63,6 +63,32 @@ header {
     /*border: 1px solid #000;*/
 }
 
+#post .date {
+    float: right;
+}
+
+#post h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+#post h2 {
+    font-weight: 300;
+    font-size: 13px;
+    margin: 10px 0 15px 0;
+    color: #aaa;
+}
+
+#post .body p {
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 25px;
+    color: #444;
+}
+
 #sidebar {
     float: left;
     width: 208px;
@@ -100,32 +126,6 @@ header {
 
 #sidebar ul li a:hover {
     color: #f1592a;
-}
-
-#post .date {
-    float: right;
-}
-
-#post h1 {
-    font-weight: 300;
-    font-size: 30px;
-    margin: 10px 0;
-    /*color: #f1592a;*/
-}
-
-#post h2 {
-    font-weight: 300;
-    font-size: 13px;
-    margin: 10px 0 15px 0;
-    color: #aaa;
-}
-
-#post .body p {
-    font-family: 'Roboto Slab', sans-serif;
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 25px;
-    color: #444;
 }
 
 .menu-item {
