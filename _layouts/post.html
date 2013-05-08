@@ -9,11 +9,11 @@
             <div id="post">
                 <h1>{{ page.title }}</h1>
 
-                <h2>Posteado el {{ page.date | date: "%d de %m de %Y" }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author }}</a></h2>
+                <h2>Posteado el {{ page.date | date: "%d de %m de %Y" }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author_twitter }}</a></h2>
 
                 <div id="social">
                     <div>
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}" data-text="{{ page.title }} - {{ page.url }}">Tweet</a>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}" data-text="{{ page.title }}">Tweet</a>
                     </div>
                     <div>
                         <p><g:plusone size="medium"></g:plusone></p>
