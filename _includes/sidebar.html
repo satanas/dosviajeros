@@ -1,9 +1,14 @@
 <div id="sidebar">
-    <ul>
-        {% for post in site.posts limit:5 %}
-        <li><a href="{{ base_path }}{{ post.url }}">{{ post.title}}</a></li>
-        {% endfor %}
-    </ul>
+    <div id="recent">
+        <ul>
+            {% for post in site.posts limit:5 %}
+            <li><a href="{{ base_path }}{{ post.url }}">{{ post.title}}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div id="donations">
+        <a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://dosviajerossinmemoria.com"></a>
+    </div>
 </div>
 <div class="clearfix"></div>
-<a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://dosviajerossinmemoria.com"></a>
