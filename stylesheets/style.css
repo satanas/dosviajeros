@@ -167,6 +167,18 @@ header {
     text-align: center;
 }
 
+#footer a {
+    color: #444;
+}
+
+#footer #license p {
+    font-size: 10px;
+}
+
+#footer #license .icon {
+    display: block;
+}
+
 .clearfix:before, .clearfix:after {
     content: ".";
     display: block;
