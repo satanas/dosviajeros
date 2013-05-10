@@ -100,11 +100,11 @@ img {
     display: block;
 }
 
-img .with-label {
+img.with-label {
     margin: 0px auto;
 }
 
-label .image-description {
+label.image-description {
     display: block;
     margin-bottom: 15px;
     font-size: 11px;
