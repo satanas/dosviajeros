@@ -93,6 +93,24 @@ header {
     color: #444;
 }
 
+img {
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 3px;
+    display: block;
+}
+
+img .with-label {
+    margin: 0px auto;
+}
+
+label .image-description {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 11px;
+    text-align: center;
+}
+
 #sidebar {
     float: left;
     width: 208px;
