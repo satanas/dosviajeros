@@ -78,13 +78,13 @@ header {
 #post h2 {
     font-weight: 300;
     font-size: 13px;
-    margin: 0 0;
+    margin-bottom: 8px;
     color: #aaa;
 }
 
 #post .body {
     border-top: 1px solid #ddd;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 #post .body p {
