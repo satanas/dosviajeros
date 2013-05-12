@@ -47,11 +47,11 @@ header {
 #blog-title, #blog-subtitle {
     float: left;
     font-family: 'Julius Sans One', sans-serif;
-    font-size: 30px;
+    font-size: 36px;
 }
 
 #blog-subtitle {
-    font-size: 33px;
+    font-size: 40px;
     color: #d6d6d6;
     margin-top: 10px;
 }
