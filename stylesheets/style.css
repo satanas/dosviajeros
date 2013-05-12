@@ -53,6 +53,7 @@ header {
 #blog-subtitle {
     font-size: 33px;
     color: #d6d6d6;
+    margin-top: 10px;
 }
 
 #post {
@@ -69,20 +70,20 @@ header {
 
 #post h1 {
     font-weight: 300;
-    font-size: 30px;
-    margin: 10px 0;
+    font-size: 26px;
+    margin: 20px 0 0 0;
     font-family: 'Raleway', sans-serif;
-    /*color: #f1592a;*/
 }
 
 #post h2 {
     font-weight: 300;
     font-size: 13px;
-    margin: 10px 0 10px 0;
+    margin: 0 0;
     color: #aaa;
 }
 
 #post .body {
+    border-top: 1px solid #ddd;
     margin-top: 20px;
 }
 
