@@ -56,6 +56,19 @@ header {
     margin-top: 10px;
 }
 
+
+#blog-title a, #blog-subtitle a{
+    text-decoration: none;
+}
+
+#blog-title a {
+    color: #444;
+}
+
+#blog-subtitle a {
+    color: #d6d6d6;
+}
+
 #post {
     float: left;
     width: 658px;
