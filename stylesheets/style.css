@@ -186,6 +186,12 @@ label.image-description {
     width: 120px;
 }
 
+#rss-feed a img {
+    margin: 0;
+    border: 0px;
+    padding: 0px;
+}
+
 .menu-item {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
