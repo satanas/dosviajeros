@@ -69,7 +69,7 @@ header {
     color: #d6d6d6;
 }
 
-#post {
+#post, #content {
     float: left;
     width: 658px;
     padding-right: 60px;
