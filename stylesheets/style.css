@@ -186,6 +186,12 @@ label.image-description {
     width: 120px;
 }
 
+/* Archive */
+
+#archive-list ul {
+    margin-left: 0px;
+}
+
 #rss-feed a img {
     margin: 0;
     border: 0px;
