@@ -188,7 +188,13 @@ label.image-description {
 
 /* Archive */
 
-#archive-list ul {
+#archive-list h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+#archive-list {
     margin-left: 0px;
 }
 
