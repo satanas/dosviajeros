@@ -130,6 +130,8 @@ label.image-description {
     width: 160px;
     height: 160px;
     float: left;
+    overflow: hidden;
+    margin-right: 20px;
 }
 
 .preview .body {
