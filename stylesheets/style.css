@@ -11,6 +11,13 @@ body {
     color: #444;
 }
 
+h1 {
+    font-weight: 300;
+    font-size: 26px;
+    margin: 20px 0 0 0;
+    font-family: 'Raleway', sans-serif;
+}
+
 a {
     color: #f1592a;
     text-decoration: none;
@@ -34,14 +41,32 @@ blockquote {
     color: #666;
 }
 
-#wrapper {
-    width: 940px;
-    margin: 0 auto;
-}
-
 header {
     margin-top: 10px;
     /*border-bottom: 1px solid #666;*/
+}
+
+img {
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 3px;
+    display: block;
+}
+
+img.with-label {
+    margin: 0px auto;
+}
+
+label.image-description {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 11px;
+    text-align: center;
+}
+
+#wrapper {
+    width: 940px;
+    margin: 0 auto;
 }
 
 #blog-title, #blog-subtitle {
@@ -81,13 +106,6 @@ header {
     float: right;
 }
 
-#post h1 {
-    font-weight: 300;
-    font-size: 26px;
-    margin: 20px 0 0 0;
-    font-family: 'Raleway', sans-serif;
-}
-
 #post h2 {
     font-weight: 300;
     font-size: 13px;
@@ -108,22 +126,14 @@ header {
     color: #444;
 }
 
-img {
-    margin: 20px auto;
-    border: 1px solid #ccc;
-    padding: 3px;
-    display: block;
+.preview .featured-image {
+    width: 160px;
+    height: 160px;
+    float: left;
 }
 
-img.with-label {
-    margin: 0px auto;
-}
-
-label.image-description {
-    display: block;
-    margin-bottom: 15px;
-    font-size: 11px;
-    text-align: center;
+.preview .body {
+    float:left;
 }
 
 #sidebar {
