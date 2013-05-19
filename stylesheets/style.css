@@ -126,16 +126,27 @@ label.image-description {
     color: #444;
 }
 
-.preview .featured-image {
-    width: 160px;
-    height: 160px;
+.post-excerpt {
+    padding-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+.post-excerpt .featured-thumbnail {
+    width: 180px;
+    height: 180px;
     float: left;
     overflow: hidden;
     margin-right: 20px;
 }
 
-.preview .body {
+.post-excerpt .featured-thumbnail img {
+    border: 0px;
+    margin: 10px 15px 0 0;
+}
+
+.post-excerpt .body {
     float:left;
+    width: 455px;
 }
 
 #sidebar {
