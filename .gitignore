@@ -1,3 +1,4 @@
 *.swp
 .rvmrc
+.ruby-*
 _site/*

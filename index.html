@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: index
 title: Dos viajeros sin memoria
 ---
-{% for post in site.posts %}
+{% for post in site.posts limit:6 %}
     {% unless post.draft %}
     <div class="post-excerpt">
         <div class="featured-thumbnail">
