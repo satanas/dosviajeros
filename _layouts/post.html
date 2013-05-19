@@ -46,7 +46,13 @@
 
             </div>
 
-            {% include sidebar.html %}
+            <div id="sidebar">
+                {% include recent.html %}
+                {% include donations.html %}
+                {% include social.html %}
+                {% include rss.html %}
+            </div>
+            <div class="clearfix"></div>
 
             {% include footer.html %}
         </div>
