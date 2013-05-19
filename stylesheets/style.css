@@ -106,7 +106,7 @@ label.image-description {
     float: right;
 }
 
-#post h2 {
+h2 {
     font-weight: 300;
     font-size: 13px;
     margin-bottom: 8px;
@@ -128,7 +128,7 @@ label.image-description {
 
 .post-excerpt {
     padding-bottom: 20px;
-    border: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
 }
 
 .post-excerpt .featured-thumbnail {
