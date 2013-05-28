@@ -1,19 +1,140 @@
----
-layout: index
-title: Dos viajeros sin memoria
----
-{% for post in site.posts limit:6 %}
-    {% unless post.draft %}
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <link href='http://fonts.googleapis.com/css?family=Julius+Sans+One|Josefin+Sans|Roboto+Slab:400,300|Lato|Open+Sans:300|Noto+Sans:400italic|Raleway:300' rel='stylesheet' type='text/css'>
+    <link href="http://satanas.github.io/dosviajeros/stylesheets/style.css" rel="stylesheet" type="text/css">
+
+    <title>Dos viajeros sin memoria</title>
+
+    <!-- Disqus -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+        (function() {
+            var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+            t.parentNode.insertBefore(s, t);
+        })();
+    /* ]]> */</script>
+
+    <!-- Google+ -->
+    <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+
+    <!-- Twitter -->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <!-- Facebook -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-40828358-1', 'dosviajerossinmemoria.com');
+      ga('send', 'pageview');
+
+    </script>
+</head>
+
+    <body>
+        <div id="wrapper">
+            <header>
+    <div id="blog-title"><a href="http://dosviajerossinmemoria.com">DOS VIAJEROS</a></div>
+    <div class="clearfix"></div>
+    <div id="blog-subtitle"><a href="http://dosviajerossinmemoria.com">sin memoria</a></div>
+    <div class="menu-item"><a href="#">Nosotros</a></div>
+    <div class="menu-item"><a href="http://dosviajerossinmemoria.com/archive">Archivo</a></div>
+    <div class="menu-item"><a href="http://dosviajerossinmemoria.com">Inicio</a></div>
+    <div class="clearfix"></div>
+</header>
+
+
+            <div id="content">
+                
+    
     <div class="post-excerpt">
         <div class="featured-thumbnail">
-            <img src="{{ post.featured_image }}"/>
+            <img src="https://lh6.googleusercontent.com/-sdZOqOePBis/UaTTXgQ-HJI/AAAAAAAAALE/wqipPn80PRg/w816-h612-no/20130526_140214.jpg"/>
         </div>
         <div class="body">
-            <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-            <h2>Posteado el {{ post.date | date: "%d de %m de %Y" }} por <a href="http://twitter.com/{{ post.author_twitter }}">{{ post.author_twitter }}</a></h2>
-            <p>{{ post.content | summary }} <a class="read-more" href="{{ post.url }}">Leer más...</a></p>
+            <h1><a href="/2013/05/27/dia-del-patrimonio">Día del Patrimonio: Santiago de Chile</a></h1>
+            <h2>Posteado el 27 de 05 de 2013 por <a href="http://twitter.com/andrearrs">andrearrs</a></h2>
+            <p><p>Como sabemos que existen otras cosas además de los videojuegos (yeah, right), este domingo Wil y yo decidimos
+<strike>dejar nuestra adicción a Borderlands de lado</strike> salir un rato a pasear aprovechando que en Santiago se
+celebraba el Día del Patrimonio. Nos enteramos de esta actividad gracias a <a href="http://twitter.com/vyevenes">Vanessa Yévenes</a>,
+una estupenda amiga chilena que nos compartió este dato.</p>
+
+ <a class="read-more" href="/2013/05/27/dia-del-patrimonio">Leer más...</a></p>
         </div>
         <div class="clearfix"></div>
     </div>
-    {% endunless %}
-{% endfor %}
+    
+
+    
+    <div class="post-excerpt">
+        <div class="featured-thumbnail">
+            <img src="http://satanas.github.io/dosviajeros/images/travel_memories.jpg"/>
+        </div>
+        <div class="body">
+            <h1><a href="/2013/05/01/primer-post">Nuestro primer post</a></h1>
+            <h2>Posteado el 01 de 05 de 2013 por <a href="http://twitter.com/satanas82">satanas82</a></h2>
+            <p><p>¡Hola mundo! Este es nuestro primer post. Andrea y yo estaremos aquí para compartir nuestras experiencias
+de viajeros con todos ustedes. Ojalá lo disfruten tanto como nosotros.</p>
+
+ <a class="read-more" href="/2013/05/01/primer-post">Leer más...</a></p>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    
+
+
+            </div>
+
+            <div id="sidebar">
+                <div id="donations">
+    <a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://dosviajerossinmemoria.com"></a>
+</div>
+
+                <div id="twitter-accounts">
+    <div><a href="https://twitter.com/andrearrs" class="twitter-follow-button" data-show-count="false" data-lang="es">Seguir a @andrearrs</a></div>
+    <div><a href="https://twitter.com/satanas82" class="twitter-follow-button" data-show-count="false" data-lang="es">Seguir a @satanas82</a></div>
+</div>
+
+                <div id="rss-feed">
+    <a href="http://dosviajerossinmemoria.com/feed"><img title="Feed RSS" src="http://satanas.github.io/dosviajeros/images/rss-feed-icon.png"></a>
+</div>
+
+            </div>
+            <div class="clearfix"></div>
+
+            <footer>
+    <div id="credits">
+        <p>Diseñado por <a href="http://twitter.com/satanas82">satanas82</a> y
+        hosteado usando <a href="http://pages.github.com/">Github Pages</a></p>
+    </div>
+    <div id="license">
+        <p>Este blog y todo su contenido es publicado bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a></p>
+    </div>
+</footer>
+
+        </div>
+    </body>
+</html>
