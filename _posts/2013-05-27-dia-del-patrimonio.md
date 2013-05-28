@@ -85,7 +85,7 @@ patada y kung-fu</strike> muy gentilmente nos hicimos paso hasta las salas de ex
 la historia del país, desde sus orígenes hasta la época comtemporánea. Este museo fue construido bajo el mandato de Augusto
 Pinochet en el año de 1982. Es un sitio muy interesante para visitar si quieres conocer y entender la evolución de Chile.
 
-<h3>ProTips:</h3>
+<h3>ProTips&reg;:</h3>
 
 * Las aperturas comienzan a las 10:00 hs y la mayoría termina entre las 14:00 y 15:00 hs, así que <i>get your ass out of your bed</i>
 si quieren aprovechar el día.
