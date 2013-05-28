@@ -18,6 +18,7 @@ Esto nos generó mucha curiosidad, sobre todo porque hay sitios que abren al pú
 tiempo en la ciudad aprovechamos de matar dos pájaros de un sólo tiro (ningún animal fue lastimado durante la realización de
 este artículo).
 
+
 Después de un par de arepas con queso y aguacate, fíjamos nuestra ruta y salimos. El primer lugar que visitamos fue la Biblioteca
 Nacional, es un lindo edificio que fue terminado en 1925 y cuyo principal benefactor fue José Toribio Medina. Tiene varios
 ambientes para visitar; el que más me gustó es la Sala Medina, un hermoso salón construido en pura madera y cuyas estanterías
