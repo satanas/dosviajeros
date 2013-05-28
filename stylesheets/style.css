@@ -51,6 +51,8 @@ img {
     border: 1px solid #ccc;
     padding: 3px;
     display: block;
+    max-width: 500px;
+    max-height: 350px;
 }
 
 img.with-label {
