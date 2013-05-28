@@ -18,7 +18,6 @@ Esto nos generó mucha curiosidad, sobre todo porque hay sitios que abren al pú
 tiempo en la ciudad aprovechamos de matar dos pájaros de un sólo tiro (ningún animal fue lastimado durante la realización de
 este artículo).
 
-
 Después de un par de arepas con queso y aguacate, fíjamos nuestra ruta y salimos. El primer lugar que visitamos fue la Biblioteca
 Nacional, es un lindo edificio que fue terminado en 1925 y cuyo principal benefactor fue José Toribio Medina. Tiene varios
 ambientes para visitar; el que más me gustó es la Sala Medina, un hermoso salón construido en pura madera y cuyas estanterías
@@ -90,12 +89,14 @@ Pinochet en el año de 1982. Es un sitio muy interesante para visitar si quieres
 
 * Las aperturas comienzan a las 10:00 hs y la mayoría termina entre las 14:00 y 15:00 hs, así que <i>get your ass out of your bed</i>
 si quieren aprovechar el día.
+* Si quieren ir al Palacio de la Moneda les recomiendo que sea su primer destino, hagan la cola incluso antes de la hora de apertura. Al
+parecer es el destino más concurrido
 * Esto es otoño gente, lleven un abrigo ligero y zapatos cómodos.
 * Hay sitios para visitar en todas las comunas de la ciudad. Usen páginas como <a href="http://diadelpatrimonio.cl/">http://diadelpatrimonio.cl/</a>
 y <a href="http://www.monumentos.cl">http://www.monumentos.cl/</a> para que planifiques tu recorrido con antelación. Incluso
 tienen hasta <a href="http://diadelpatrimonio.cl/aplicacion">aplicaciones para tu celular</a>
 * Lleva merienditas y agua porque la jornada es larga. Recuerda también llevar tu cámara bien cargada porque tomarás muchas fotos.
 
-Nos faltaron muchos sitios por visitar... Con suerte lo haremos el año que viene. Fue una experiencia que me gustó mucho. Pueden
-ver el resto de las fotos en nuestro <a href="https://plus.google.com/u/0/b/109580611265902807643/photos/109580611265902807643/albums/5883057742898824897">álbum de Google+</a>
+Nos faltaron muchos sitios por visitar... Con suerte lo haremos el año que viene, el paseo me gustó mucho. Pueden
+ver el resto de las fotos en nuestro <a target="_blank" href="https://plus.google.com/u/0/b/109580611265902807643/photos/109580611265902807643/albums/5883057742898824897">álbum de Google+</a>
 
