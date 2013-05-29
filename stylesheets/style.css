@@ -18,15 +18,6 @@ h1 {
     font-family: 'Raleway', sans-serif;
 }
 
-p {
-    font-family: 'Roboto Slab', sans-serif;
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 25px;
-    color: #444;
-    margin: 20px 0;
-}
-
 a {
     color: #f1592a;
     text-decoration: none;
@@ -127,6 +118,15 @@ h2 {
 #post .body {
     border-top: 1px solid #ddd;
     margin-top: 5px;
+}
+
+#post .body p, #wraper #content p {
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 25px;
+    color: #444;
+    margin: 20px 0;
 }
 
 .post-excerpt {
