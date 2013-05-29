@@ -37,7 +37,7 @@ en la entrada, este es un instrumento que reproduce melodías grabadas en cintas
 
 A no más de dos cuadras se encuentra el famoso Palacio de Subercaseaux, justo al frente del Teatro Municipal. Nos llamó
 la atención que había mucha cola para entrar, esto porque sólo abre al publico ese día así que decidimos
-aprovechar y verlo lo antes posible. Es un lugar todo fancy con pisos de parquet de 5 tipos de madera, arañas de luces
+aprovechar y verlo lo antes posible. Es un lugar todo fancy&trade; con pisos de parquet de 5 tipos de madera, arañas de luces
 de cristal de roca, alfombras persas, jarrones de porcelana china y muebles de varias partes del mundo. El edificio está
 custodiado por oficiales de la aviación, esto porque en 1951 le fue asignado a la Fuerza Aérea (solía
 ser de un importante banquero). Hoy en día lo utilizan para fines recreativos y puede ser rentado por particulares a
