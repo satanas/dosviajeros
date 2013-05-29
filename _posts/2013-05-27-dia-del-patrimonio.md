@@ -65,7 +65,7 @@ montón de sitios pendientes nos dimos la vuelta y caminamos al norte hacia la P
 la Catedral y el Museo de Historia que cerraban un poco más tarde.
 
 En el camino pasamos por el Congreso, un edificio con una hermosa fachada y un lindo y amplio jardín. A lo lejos pude ver un
-Credrón todo deshojado por el otoño, una belleza. La cola para entrar era grande y tampoco nos daria tiempo de visitarlo
+Cedrón todo deshojado por el otoño, una belleza. La cola para entrar era grande y tampoco nos daria tiempo de visitarlo
 ya que estaba pronto a cerrar.
 
 <img id="congreso" src="https://lh5.googleusercontent.com/-aQ_EQMxiekI/UaTWZwowoHI/AAAAAAAAAHE/BStgGlTd__g/w788-h591-no/20130526_144015.jpg" class="with-label">
