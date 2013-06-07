@@ -20,7 +20,7 @@ El secreto para sobrevivir al invierno es **mantener el calor corporal** el mayo
 eso? Fácil, siguiendo estos consejos:
 
 * Puedes bañarte en las noches, así al despertar estarás calientico. Además, créeme que no es fácil meterse a la ducha 
-  recién despierto y con frío.
+  recién despierto y con frío. También puedes optar por no bañarte pero eso puede ser contraproducente para tus relaciones sociales.
 * Si vives en un país tropical y eres <strike>como yo</strike> de los que suele salir mojado de la ducha para "secarse con el viento" 
   pues no lo hagas, recuerda que el frío te espera afuera y salir mojado aumenta tus probabilidades de resfrío.
 * Trata de no salir a la calle desabrigado. Un buen abrigo para el torso, una bufanda para el cuello y un par de guantes son amigos
