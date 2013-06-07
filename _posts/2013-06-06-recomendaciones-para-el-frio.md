@@ -8,9 +8,9 @@ featured_image: "https://lh6.googleusercontent.com/-CKa6WKEu_Qs/UbFJRXTcELI/AAAA
 
 Muchas personas me han pedido consejos acerca de como enfrentar el frío, bien sea porque van de vacaciones en época invernal o porque 
 se mudan de un país tropical a uno con las 4 estaciones, así que decidí compartir algunas recomendaciones en este post.
+<!-- summary -->
 
 Lo primero que quiero dejar bien claro es lo siguiente: **Aclimatarse no es pasar frío**. Punto.
-<!-- summary -->
 
 Mucha gente cree que aclimatarse es salir a la calle a 0ºC, semi-desnudo y aguantar el frío. Nada más lejos de la realidad. 
 Aclimatarse es acostumbrarse a la sensación de frío, a que de vez en cuando se te pueden romper los labios si no los mantienes bien 
