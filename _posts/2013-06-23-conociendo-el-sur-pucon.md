@@ -31,7 +31,7 @@ tendrían que tomar un transfer por aproximadamente una hora que los traslade ha
 En cuanto al alojamiento por lo general las opciones son para morir de amor. Hay variedad de hostales y cabañas acogedoras, 
 desde lo barato a lo más fancy, todo dependiendo de lo que tu bolsillo pueda pagar. Les recomiendo (sobre todo si van en temporada alta) 
 que hagan sus reservaciones con antelación para que no pasen un mal rato pues suelen visitarlos unos 20.000 turistas aproximadamente. 
-Una buena manera es por <a href="http://bookings.com">bookings.com</a>, el sitio es bien movido en cuanto a reviews y no cobran 
+Una buena manera es por <a href="http://bookings.com" target="_blank">bookings.com</a>, el sitio es bien movido en cuanto a reviews y no cobran 
 comisión por reserva. Nosotros nos quedamos en uno justo al lado del lago y cercano al centro, lo cual es ideal pues todo queda cerca.
 
 <img id="centro" src="https://lh4.googleusercontent.com/-8Drhci1xQZQ/UceG6eDC7NI/AAAAAAAAAMw/UVXgurNMpcA/w443-h591-no/20130610_084625.jpg" class="with-label">
@@ -42,7 +42,7 @@ tours que ocuparán un par de horas, una tarde o todo el día, sólo deben plane
 no se queden en el hotel mirando el techo. Pueden hacer desde rafting hasta ski (este último sólo en temporada de invierno). Es cuestion de 
 elegir lo que más te guste, opciones sobran. Igual nunca te alcanza el tiempo, la energia o el dinero para hacer todo esto. Si te sientes 
 un poco más aventurero tambien puedes rentar un auto y hacer alguno de estos paseos por tu cuenta o incluso puedes llegar hasta 
-<a href="https://maps.google.com/maps?q=pucon&hl=es-419&ie=UTF8&ll=-39.248207,-71.975555&spn=0.617893,1.352692&sll=-33.668298,-70.363372&sspn=1.32811,2.705383&hnear=Puc%C3%B3n+-+Caut%C3%ADn,+Araucan%C3%ADa,+Chile&t=m&z=10">Argentina</a> 
+<a target="_blank" href="https://maps.google.com/maps?q=pucon&hl=es-419&ie=UTF8&ll=-39.248207,-71.975555&spn=0.617893,1.352692&sll=-33.668298,-70.363372&sspn=1.32811,2.705383&hnear=Puc%C3%B3n+-+Caut%C3%ADn,+Araucan%C3%ADa,+Chile&t=m&z=10">Argentina</a> 
 pues la frontera esta a unos 70 km aproximadamente de Pucón, pero ojo, que no te dejan pasar con un auto alquilado, de 
 ahi en adelante te toca a pie.
 
@@ -81,7 +81,7 @@ Toda una experiencia.
 <img id="skibunda" src="https://lh4.googleusercontent.com/-9vNcybRx90I/UceHP94U-oI/AAAAAAAAAOo/6yFYnm3G0VE/w788-h591-no/20130611_135951.jpg" class="with-label">
 <label for="skibunda" class="image-description">Skibunda</label>
 
-En nuestro <a href="https://plus.google.com/u/0/109580611265902807643/posts/UsgamT4FpRk">álbum de Google+</a> pueden ver más fotos
+En nuestro <a target="_blank" href="https://plus.google.com/u/0/109580611265902807643/posts/UsgamT4FpRk">álbum de Google+</a> pueden ver más fotos
 
 
 <h3>ProTips&reg;:</h3>
