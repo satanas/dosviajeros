@@ -4,6 +4,7 @@ title: "Día del Patrimonio: Santiago de Chile"
 author: "Andrea"
 author_twitter: "andrearrs"
 featured_image: "https://lh6.googleusercontent.com/-sdZOqOePBis/UaTTXgQ-HJI/AAAAAAAAALE/wqipPn80PRg/w816-h612-no/20130526_140214.jpg"
+featured_label: "Cúpula de la Intendencia"
 ---
 
 Como sabemos que existen otras cosas además de los videojuegos (yeah, right), este domingo Wil y yo decidimos

@@ -4,6 +4,7 @@ title: "Conociendo el sur: Pucón"
 author: "Andrea"
 author_twitter: "andrearrs"
 featured_image: "https://lh3.googleusercontent.com/-_PzsLUvI-Wc/UceHDeyV08I/AAAAAAAAANc/sFziEXLILBA/w788-h591-no/20130610_160723.jpg"
+featured_label: "Volcán Villarica"
 ---
 
 A unos 780 km hacia el sur de Santiago se encuentra Pucón, un maravilloso lugar carente del smog y esa locura citadina 
@@ -54,11 +55,11 @@ hermosa vista del volcán.
 
 Caminando un poco más esta el mirador del cementerio desde donde hay una vista panoramica de Pucón y del 
 lago, pero por lo general desde donde mires tienes buenas vistas, un silencio que hipnotiza y aire tan puro que te haria toser. 
-Ya en auto estan lugares como el mirador del río Turbio, del río Trancura, la Laguna Azul, los Ojos y el Lago de Caburgua y muchas 
+Ya en auto estan lugares como el mirador del río Turbio, del río Trancura, la Laguna Azul, los Ojos y el Lago Caburgua y muchas 
 termas, la mayoría de estos sitios estan incluidos en los city tours, imperdibles.
 
 <img id="caburgua" src="https://lh5.googleusercontent.com/-qLkdiOdrVes/UceHS1fpmJI/AAAAAAAAAOw/wvi-nWDcL1Y/w788-h591-no/20130612_161130.jpg" class="with-label">
-<label for="caburgua" class="image-description">Lago de Caburgua</label>
+<label for="caburgua" class="image-description">Lago Caburgua</label>
 
 En cuanto a la ascension al volcán, es el tour más costoso que pagamos pero el más gratificante, sin lugar a dudas. Este tour se 
 contrata con al menos un dia de antelación para que recibas la inducción necesaria en cuanto a lo que debes hacer y llevar 
