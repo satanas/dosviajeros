@@ -79,6 +79,8 @@ Toda una experiencia.
 <img id="skibunda" src="https://lh4.googleusercontent.com/-9vNcybRx90I/UceHP94U-oI/AAAAAAAAAOo/6yFYnm3G0VE/w788-h591-no/20130611_135951.jpg" class="with-label">
 <label for="skibunda" class="image-description">Skibunda</label>
 
+En nuestro <a href="https://plus.google.com/u/0/109580611265902807643/posts/UsgamT4FpRk">álbum de Google+</a> pueden ver más fotos
+
 
 <h3>ProTips&reg;:</h3>
 
