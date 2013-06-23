@@ -3,7 +3,7 @@ layout: post
 title: "Conociendo el sur: Pucón"
 author: "Andrea"
 author_twitter: "andrearrs"
-featured_image: "https://lh6.googleusercontent.com/-OHxjE7qkj8c/UceG7D0B8WI/AAAAAAAAAM0/ROU2Z67X4ZI/w788-h591-no/20130610_154833.jpg"
+featured_image: "https://lh3.googleusercontent.com/-_PzsLUvI-Wc/UceHDeyV08I/AAAAAAAAANc/sFziEXLILBA/w788-h591-no/20130610_160723.jpg"
 ---
 
 A unos 780 km hacia el sur de Santiago se encuentra Pucón, un maravilloso lugar carente del smog y esa locura citadina 
