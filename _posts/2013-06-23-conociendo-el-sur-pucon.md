@@ -13,7 +13,7 @@ adepta. El olor a leña calentando los hogares de esta gente es embriagante y su
 <!-- summary -->
 
 En Pucón viven unas 25.000 personas y todo es de madera (incluyendo los letreros y señalizaciones) y
-a tan solo 14 km en dirección sudeste descansa el volcán de Villarica, el responsable de brindarte la mejor y más hermosa 
+a tan solo 14 km en dirección sureste descansa el volcán de Villarica, el responsable de brindarte la mejor y más hermosa 
 vista que podrias soñar tener en cada amanecer y puesta de sol de tu vida. Este volcán, cuyo nombre en Mapuche es Rucapillan 
 (algo así como casa del demonio), es uno de los más activos de Suramérica y tiene una altitud de 2847msnm hasta su crater. 
 Su forma cónica perfecta y su aspecto imponente cubierto de nieve y hielo (con más abundancia en los meses de invierno) es 
@@ -37,13 +37,14 @@ comisión por reserva. Nosotros nos quedamos en uno justo al lado del lago y cer
 <img id="centro" src="https://lh4.googleusercontent.com/-8Drhci1xQZQ/UceG6eDC7NI/AAAAAAAAAMw/UVXgurNMpcA/w443-h591-no/20130610_084625.jpg" class="with-label">
 <label for="centro" class="image-description">Centro de la ciudad</label>
 
-En Pucón hay mucho por hacer a parte de subir el volcán. En la libertador O'Higgins hay varias agencias de turismo con mil y un 
+En Pucón hay mucho por hacer a parte de subir el volcán. En la Libertador O'Higgins hay varias agencias de turismo con mil y un 
 tours que ocuparán un par de horas, una tarde o todo el día, sólo deben planear sus actividades con algo de antelación para que 
 no se queden en el hotel mirando el techo. Pueden hacer desde rafting hasta ski (este último sólo en temporada de invierno). Es cuestion de 
 elegir lo que más te guste, opciones sobran. Igual nunca te alcanza el tiempo, la energia o el dinero para hacer todo esto. Si te sientes 
 un poco más aventurero tambien puedes rentar un auto y hacer alguno de estos paseos por tu cuenta o incluso puedes llegar hasta 
-Argentina pues la frontera esta a unos 70 km aproximadamente de Pucón, pero ojo, que no te dejan pasar con un auto alquilado, de 
-ahi en más te toca a pie.
+<a href="https://maps.google.com/maps?q=pucon&hl=es-419&ie=UTF8&ll=-39.248207,-71.975555&spn=0.617893,1.352692&sll=-33.668298,-70.363372&sspn=1.32811,2.705383&hnear=Puc%C3%B3n+-+Caut%C3%ADn,+Araucan%C3%ADa,+Chile&t=m&z=10">Argentina</a> 
+pues la frontera esta a unos 70 km aproximadamente de Pucón, pero ojo, que no te dejan pasar con un auto alquilado, de 
+ahi en adelante te toca a pie.
 
 Lo mejor es conseguir un mapa (si no te facilitan uno en el hotel lo puedes conseguir en la municipalidad) y salir a conocer el 
 lugar caminando o con una bici alquilada, como prefieras. Muy cerca estan La Poza y Playa Grande que son una especie de secciones del 
