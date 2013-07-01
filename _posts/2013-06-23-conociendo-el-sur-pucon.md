@@ -5,7 +5,7 @@ author: "Andrea"
 author_twitter: "andrearrs"
 featured_image: "https://lh3.googleusercontent.com/-_PzsLUvI-Wc/UceHDeyV08I/AAAAAAAAANc/sFziEXLILBA/w788-h591-no/20130610_160723.jpg"
 featured_label: "Volcán Villarica"
-author_rank: https://plus.google.com/100127892655018792698
+author_rank: "http://plus.google.com/100127892655018792698"
 meta_robots: "noodp, noydir"
 ---
 

@@ -4,7 +4,7 @@ title: "Recomendaciones para el frío"
 author: "Wil"
 author_twitter: "satanas82"
 featured_image: "https://lh6.googleusercontent.com/-CKa6WKEu_Qs/UbFJRXTcELI/AAAAAAAAAL4/AZyzxlk-mrM/w530-h318-no/invierno.jpg"
-author_rank: https://plus.google.com/100024002887657675637
+author_rank: "http://plus.google.com/100024002887657675637"
 meta_robots: "noodp, noydir"
 ---
 
