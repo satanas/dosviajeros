@@ -1,0 +1,22 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://dosviajerossinmemoria.com</loc>
+        <lastmod>{{ site.time | date_to_xml_schema }}</lastmod>
+        <changefreq>daily</chagefreq>
+        <priority>1.0</priority>
+    </url>
+    {% for post in site.posts %}
+    <url>
+        <loc>http://dosviajerossinmemoria.com{{ post.url }}/</loc>
+        <lastmod>{{ post.date | date_to_xml_schema }}</lastmod>
+        <changefreq>weekly</chagefreq>
+        <priority>0.2</priority>
+    </url>
+    {% endfor %}
+</urlset>
+
+
