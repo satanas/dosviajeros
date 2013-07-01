@@ -6,14 +6,14 @@
     <url>
         <loc>http://dosviajerossinmemoria.com</loc>
         <lastmod>{{ site.time | date_to_xml_schema }}</lastmod>
-        <changefreq>daily</chagefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     {% for post in site.posts %}
     <url>
         <loc>http://dosviajerossinmemoria.com{{ post.url }}/</loc>
         <lastmod>{{ post.date | date_to_xml_schema }}</lastmod>
-        <changefreq>weekly</chagefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
     {% endfor %}
