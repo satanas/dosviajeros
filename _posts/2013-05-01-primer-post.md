@@ -4,7 +4,7 @@ title: "Nuestro primer post"
 author: "Wil Alvarez"
 author_twitter: "satanas82"
 featured_image: "http://satanas.github.io/dosviajeros/images/travel_memories.jpg"
-authorank: https://plus.google.com/100024002887657675637
+author_rank: https://plus.google.com/100024002887657675637
 ---
 
 ¡Hola mundo! Este es nuestro primer post. Andrea y yo estaremos aquí para compartir nuestras experiencias 

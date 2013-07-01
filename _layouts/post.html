@@ -3,8 +3,6 @@
     {% include post_head.html %}
     <body>
         <div id="wrapper">
-            <!-- Author rank -->
-            <a href="{{ page.authorank }}" style="display:none">{{ page.author }}</a>
             {% include header.html %}
 
             <!-- Post -->
@@ -12,6 +10,8 @@
                 <h1>{{ page.title }}</h1>
 
                 <h2>Posteado el {{ page.date | date: "%d de %m de %Y" }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author }}</a></h2>
+                <!-- Author rank -->
+                <a href="{{ page.author_rank }}" style="display:none">{{ page.author }}</a>
 
                 <div id="social">
                     <div>
