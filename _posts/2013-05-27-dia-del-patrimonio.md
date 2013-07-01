@@ -6,6 +6,7 @@ author_twitter: "andrearrs"
 featured_image: "https://lh6.googleusercontent.com/-sdZOqOePBis/UaTTXgQ-HJI/AAAAAAAAALE/wqipPn80PRg/w816-h612-no/20130526_140214.jpg"
 featured_label: "Cúpula de la Intendencia"
 author_rank: https://plus.google.com/100127892655018792698
+meta_robots: "noodp, noydir"
 ---
 
 Como sabemos que existen otras cosas además de los videojuegos (yeah, right), este domingo Wil y yo decidimos
