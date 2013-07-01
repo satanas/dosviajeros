@@ -5,6 +5,7 @@ author: "Andrea"
 author_twitter: "andrearrs"
 featured_image: "https://lh3.googleusercontent.com/-_PzsLUvI-Wc/UceHDeyV08I/AAAAAAAAANc/sFziEXLILBA/w788-h591-no/20130610_160723.jpg"
 featured_label: "Volcán Villarica"
+authorank: https://plus.google.com/100127892655018792698
 ---
 
 A unos 780 km hacia el sur de Santiago se encuentra Pucón, un maravilloso lugar carente del smog y esa locura citadina 
