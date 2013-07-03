@@ -11,7 +11,7 @@
 
                 <h2>Posteado el {{ page.date | date: "%d de %m de %Y" }} por <a href="http://twitter.com/{{ page.author_twitter }}">{{ page.author }}</a></h2>
                 <!-- Author rank -->
-                <a href="{{ page.author_rank }}" style="display:none">{{ page.author }}</a>
+                <a href="{{ page.author_rank }}?rel=author" style="display:none">{{ page.author }}</a>
 
                 <div id="social">
                     <div>
