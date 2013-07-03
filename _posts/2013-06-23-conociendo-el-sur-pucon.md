@@ -7,6 +7,8 @@ featured_image: "https://lh3.googleusercontent.com/-_PzsLUvI-Wc/UceHDeyV08I/AAAA
 featured_label: "Volcán Villarica"
 author_rank: "http://plus.google.com/100127892655018792698"
 meta_robots: "noodp, noydir"
+keywords: "viaje a pucon, turismo pucon, volcan pucon, volcan villarica, volcan del sur de chile"
+meta_description: "Conociendo el sur de Chile Pucón"
 ---
 
 A unos 780 km hacia el sur de Santiago se encuentra Pucón, un maravilloso lugar carente del smog y esa locura citadina 
