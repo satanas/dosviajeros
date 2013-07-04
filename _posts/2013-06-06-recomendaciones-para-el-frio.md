@@ -4,10 +4,10 @@ title: "Recomendaciones para el frío"
 author: "Wil"
 author_twitter: "satanas82"
 featured_image: "https://lh6.googleusercontent.com/-CKa6WKEu_Qs/UbFJRXTcELI/AAAAAAAAAL4/AZyzxlk-mrM/w530-h318-no/invierno.jpg"
-author_rank: "http://plus.google.com/100024002887657675637"
+author_rank: "https://plus.google.com/100024002887657675637"
 meta_robots: "noodp, noydir"
 meta_description: "Recomendaciones para el frío en invierno"
-keywords: "recomendaciones para el frío en invierno, recomendaciones para las vacaciones"
+keywords: "recomendaciones para el invierno, recomendaciones para las vacaciones, recomendaciones para el frío"
 ---
 
 Muchas personas me han pedido consejos acerca de como enfrentar el frío, bien sea porque van de vacaciones en época invernal o porque 
