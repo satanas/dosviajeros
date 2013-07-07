@@ -9,7 +9,6 @@ author_rank: "https://plus.google.com/100024002887657675637"
 meta_robots: "noodp, noydir"
 meta_description: "Valparaiso una ciudad colorida"
 keywords: "viaje a valparaiso, valparaiso colorido, vacaciones en valparaiso, hospedaje en valparaiso"
-published: false
 ---
 
 Valparaiso, o simplemente Valpo como lo llaman comúnmente, es una hermosa ciudad ubicada en 
