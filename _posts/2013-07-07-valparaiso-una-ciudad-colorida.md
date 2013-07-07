@@ -27,10 +27,11 @@ en el terminal de Valparaiso.
 <label for="cerro_concepcion" class="image-description">Alrededores del cerro Concepción</label>
 
 Llegamos a media noche y teníamos reserva en un hostel en el cerro Concepción, así que tomamos 
-un taxi desde el terminal. La reserva la hicimos días antes a través de http://hostelworld.com, pero
+un taxi desde el terminal. La reserva la hicimos días antes a través de 
+<a href="http://www.hostelworld.com/">http://hostelworld.com</a>, pero
 estando allá nos dimos cuenta que esa página cobra comisión y en algunos casos no le notifica 
 a los propietarios sobre la reserva, así que la experiencia no fue tan buena como 
-esperabamos. Sin duda es mejor usar http://booking.com. Generalmente buscamos 
+esperabamos. Sin duda es mejor usar <a href="http://www.booking.com/">http://www.booking.com</a>. Generalmente buscamos 
 alojamientos tipo hostel porque tienen varias opciones de habitaciones y los 
 precios son más solidarios. Sin embargo, depende del gusto y del presupuesto de cada quien.
 
@@ -46,7 +47,7 @@ Ex-Intendencia de Valparaiso y los Tribunales de Justicia, un lugar lindo para t
 
 En el muelle Prat tienen la posibilidad de realizar un paseo en bote por el puerto, el costo  
 es de unos 2.000 pesos por persona y dura cerca de 45 minutos. El anfitrión va contando la historia 
-de la ciudad y de los diferentes puntos de interés alrededor del muelle. Vez de cerca 
+de la ciudad y de los diferentes puntos de interés alrededor del muelle. Ves de cerca 
 fragatas, buques de guerra, de carga y hasta leones marinos. Es bien entretenido el viaje.
 
 <img id="muelle_prat" title="Muelle Prat" alt="Muelle Prat" src="https://lh6.googleusercontent.com/-kqfvNkUdcaU/UdTRbNHQKZI/AAAAAAAAAS8/mbSIen9K11w/w788-h591-no/DSC05994.JPG" class="with-label">
@@ -57,7 +58,8 @@ Valdivia con Cochrane. Ese restaurante es <strong>LA</strong> locura (léase LA 
 Tienen que probar las machas a la parmesana, la chorrillana de mariscos, el jardin de 
 mariscos o cualquier cosa que tenga pescados y mariscos, porque son su especialidad. 
 No se pueden ir sin probar la cerveza del puerto, todo ahí es delicioso y 
-lo mejor son los precios *risas descontroladas*. (no sé era porque estabamos cagados de hambre pero todo estaba delicioso)
+lo mejor son los precios *risas descontroladas*. (no sé si era porque estabamos cagados de hambre 
+pero todo estaba delicioso)
 
 <img id="cerverza_del_puerto" title="Cerveza del Puerto" alt="Cerveza del Puerto" src="https://lh4.googleusercontent.com/-9Kr8CDDx_9Y/UdmXhkOfquI/AAAAAAAAAZo/15cbFgyzXgw/w788-h591-no/IMG_1908.JPG" class="with-label">
 <label for="cerveza_del_puerto" class="image-description">Cerveza del Puerto</label>
@@ -73,7 +75,7 @@ El recorrido es genial, son 5 pisos y no tienes un guía humano sino que te dan 
 aparatico (audio guía) que te va echando el cuento a medida que vas recorriendo las 
 diferentes áreas. La casa tiene muchos peroles y es reducida en espacio, por eso te dicen 
 que no puedes pasar con bolsos y habilitan unos lockers en la entrada. La organización y 
-logística son de primera y siempre hay personal de seguridad pendiente de ayudar o de 
+logística son de primera y siempre hay personal de seguridad pendiente de ayudar.
 
 Una de las cosas que más nos llamó la atención es la vista hacia el mar. Prácticamente desde 
 cualquier rincón de la casa se ve el mar pero el living tiene la vista más hermosa de la costa,
