@@ -59,7 +59,13 @@ img.with-label {
     margin: 0px auto;
 }
 
-img.featured {
+#featured {
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 3px;
+    display: block;
+    max-width: 500px;
+    max-height: 350px;
     margin-bottom: 0px;
 }
 
