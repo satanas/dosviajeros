@@ -58,7 +58,7 @@ Valdivia con Cochrane. Ese restaurante es <strong>LA</strong> locura (léase LA 
 Tienen que probar las machas a la parmesana, la chorrillana de mariscos, el jardin de 
 mariscos o cualquier cosa que tenga pescados y mariscos, porque son su especialidad. 
 No se pueden ir sin probar la cerveza del puerto, todo ahí es delicioso y 
-lo mejor son los precios *risas descontroladas*. (no sé si era porque estabamos cagados de hambre 
+lo mejor son los precios <pre>*risas descontroladas*</pre>. (no sé si era porque estabamos cagados de hambre 
 pero todo estaba delicioso)
 
 <img id="cerverza_del_puerto" title="Cerveza del Puerto" alt="Cerveza del Puerto" src="https://lh4.googleusercontent.com/-9Kr8CDDx_9Y/UdmXhkOfquI/AAAAAAAAAZo/15cbFgyzXgw/w788-h591-no/IMG_1908.JPG" class="with-label">
