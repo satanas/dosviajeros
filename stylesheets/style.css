@@ -59,7 +59,7 @@ img.with-label {
     margin: 0px auto;
 }
 
-#featured {
+img.featured {
     margin: 20px auto;
     border: 1px solid #ccc;
     padding: 3px;
