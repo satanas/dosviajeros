@@ -52,7 +52,7 @@ donde el doctor lo sedó y le realizó las curas y los cuidados básicos. La ate
 * Examen de pelo y escama: 15.000 pesos
 * Collar Isabelino: 8.000 pesos
 
-**Total a pagar: 124.000 pesos**
+**Total a pagar: 124.000 pesos** (cerca de 240 US$)
 
 
 <img id="limpieza" src="https://lh4.googleusercontent.com/-DjBZnzmkevQ/UfSVS2p9F2I/AAAAAAAAAcc/a1e0A27nhlM/w788-h591-no/20130727_181131.jpg" class="with-label">
