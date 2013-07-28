@@ -58,7 +58,7 @@ donde el doctor lo sedó y le realizó las curas y los cuidados básicos. La ate
 <img id="limpieza" src="https://lh4.googleusercontent.com/-DjBZnzmkevQ/UfSVS2p9F2I/AAAAAAAAAcc/a1e0A27nhlM/w788-h591-no/20130727_181131.jpg" class="with-label">
 <label for="limpieza" class="image-description">Comenzando la limpieza</label>
 
-<img id="heridas" src="https://lh3.googleusercontent.com/-aW4WX_DQe50/UfSU6DmjUOI/AAAAAAAAAb8/8ySu3ZhXgpw/w788-h591-no/20130727_173225.jpg" class="with-label">
+<img id="heridas" src="https://lh4.googleusercontent.com/-ABz369qAuLU/UfSVjL_kj0I/AAAAAAAAAdk/eWEs9aSOSh8/w788-h591-no/20130727_184335.jpg" class="with-label">
 <label for="heridas" class="image-description">Heridas</label>
 
 
