@@ -75,13 +75,9 @@ para conseguirle un hogar lo más pronto posible. Es un perrito muy dócil y reg
 y amor como otro cualquier animal en condición de calle. Cualquier ayuda monetaria puedes hacerla a través de 
 PayPal a *wil.alejandro@gmail.com* o a la siguiente cuenta (en Chile):
 
-```
-Banco Itau
-
-Cuenta corriente número: 0204949344
-
-A nombre de: Wil Alvarez
-```
+    Banco Itau
+    Cuenta corriente número: 0204949344
+    A nombre de: Wil Alvarez
 
 Anexamos fotos de la boleta y en nuestro 
 <a href="https://plus.google.com/u/0/b/109580611265902807643/photos/109580611265902807643/albums/5905508671934468161">álbum de Google+</a> puedes 
