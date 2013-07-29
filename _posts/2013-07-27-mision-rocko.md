@@ -78,7 +78,7 @@ PayPal a *wil.alejandro@gmail.com* o a la siguiente cuenta (en Chile):
     Banco Itau
     Cuenta corriente número: 0204949344
     A nombre de: Wil Alvarez
-    RUT: 24.079.203-6
+    RUT: 48.157.134-0
     Correo: wil.alejandro@gmail.com
 
 Anexamos fotos de la boleta y en nuestro 
