@@ -30,7 +30,7 @@ te están diciendo. Ahora, sin más preámbulos, pasemos a la lista.
 Esta es la lista de modismos más comunes.
 
 * **Quilombo** (ARG), **Cagá** (CHI), **Peo** (VEN): Problema o situación complicada.
-* **Mamado** (ARG), **Curao** (CHI), **Curdo** (VEN): Borracho
+* **En pedo** (ARG), **Curao** (CHI), **Curdo** (VEN): Borracho
 * **Pancho** (ARG), **Completo** (CHI), **Perro caliente** (VEN): Salchicha, hot-dog
 * **Guarango** (ARG), **Flaite** (CHI), **Tierruo** (VEN): Ordinario, marginal
 * **Birra** (ARG), **Chela** (CHI), **Curda** (VEN): Cerveza
