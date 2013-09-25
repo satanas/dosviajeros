@@ -53,7 +53,7 @@ Esta es la lista de modismos más comunes.
 * **Ojota** (ARG), **Chala** (CHI), **Chancleta** (VEN): Sandalia
 * **Campera** (ARG), **Polerón** (CHI), **Chaqueta** (VEN): Prenda de vestir con mangas y abierto por delante que 
     <del>usualmente</del> se usa para cubrirse del frío
-* **Heladera** (ARG), **Refrigerador** (CHI), **Nevera (VEN): Electrodoméstico que enfría y conserva los alimentos
+* **Heladera** (ARG), **Refrigerador** (CHI), **Nevera** (VEN): Electrodoméstico que enfría y conserva los alimentos
 * **Remera** (ARG), **Polera** (CHI), **Franela** (VEN): Camiseta. Prenda de vestir de mangas cortas
 * **Pochoclo** (ARG), **Cabritas** (CHI), **Cotufas** (VEN): Palomitas de maíz
 
