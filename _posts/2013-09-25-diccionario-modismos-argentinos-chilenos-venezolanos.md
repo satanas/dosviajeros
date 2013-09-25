@@ -57,7 +57,7 @@ Esta es la lista de modismos más comunes.
 * **Remera** (ARG), **Polera** (CHI), **Franela** (VEN): Camiseta. Prenda de vestir de mangas cortas
 * **Pochoclo** (ARG), **Cabritas** (CHI), **Cotufas** (VEN): Palomitas de maíz
 * **Cola** (ARG), **Poto** (CHI), **Culo** (VEN): Trasero, posaderas, nalgas
-* **Garchar** (ARG), **Cojer** (CHI), **Tirar** (VEN): Acto sexual
+* **Garchar** (ARG), **Pisar** (CHI), **Tirar** (VEN): Acto sexual
 
 
 Hay muchas palabras que no tienen "traducción" en los 3 países sin embargo, son tan comunes en el lenguaje diario de 
