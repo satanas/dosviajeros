@@ -56,6 +56,7 @@ Esta es la lista de modismos más comunes.
 * **Heladera** (ARG), **Refrigerador** (CHI), **Nevera** (VEN): Electrodoméstico que enfría y conserva los alimentos
 * **Remera** (ARG), **Polera** (CHI), **Franela** (VEN): Camiseta. Prenda de vestir de mangas cortas
 * **Pochoclo** (ARG), **Cabritas** (CHI), **Cotufas** (VEN): Palomitas de maíz
+* **Cola** (ARG), **Poto** (CHI), **Culo** (VEN): Trasero, posaderas, nalgas
 
 
 Hay muchas palabras que no tienen "traducción" en los 3 países sin embargo, son tan comunes en el lenguaje diario de 
