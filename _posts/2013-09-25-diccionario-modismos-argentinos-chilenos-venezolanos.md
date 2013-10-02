@@ -8,7 +8,7 @@ featured_label: "Diccionario"
 author_rank: "https://plus.google.com/100024002887657675637"
 meta_robots: "noodp, noydir"
 meta_description: "Diccionario de modismos argentinos, chilenos y venezolanos"
-keywords: "diccionario modismos, modismos argentinos, modismos chilenos, modismos venezolanos"
+keywords: "diccionarios de modismos, modismos argentinos, modismos chilenos, modismos venezolanos"
 ---
 
 Mis amigos de la Real Academia Española, conscientes de lo difícil que es hablar español, me pidieron que los ayudara 
