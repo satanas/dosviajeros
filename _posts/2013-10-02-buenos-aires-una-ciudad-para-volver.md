@@ -134,7 +134,7 @@ perfecto para un día soleado de mates y facturas.
 <label for="plaza-francia" class="image-description">Plaza Francia</label>
 
 En cuanto a plazas tienen para elegir. En Recoleta están la Plaza Francia, la Plaza Italia, 
-la Plaza Dante, la Intendente de Torcuato de Alvear y pare usted de contar. Todas lindas, como 
+la Plaza Dante, la Intendente de Torcuato de Alvear y pare de contar. Todas lindas, como 
 para sentarse un rato a llevar sol. Más hacia el sur este, en Retiro, tienen la Plaza San Martin,
 la Torre de los Ingleses y la estación de trenes de Retiro. Traten de ir de día a Retiro porque 
 suele ser un tanto heavy luego que oscurece.
