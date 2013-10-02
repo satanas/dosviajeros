@@ -96,7 +96,7 @@ de adoquines esconden alguna que otra tienda de antigüedades donde provoca
 dejar los reales. Por ahí derechito se van a encontrar la Mafalda de Quino en
 un banquito. Al llegar a la Plaza Dorrego, hay sitios ricos para tomarse una cerveza, un
 fernet y comerse una milanesa con ensalada y papas. Y sí, a este punto ya la
-dieta se fue a la mierda XD.
+dieta se fue <del>a la mierda</del> al olvido XD.
 
 Esta feria sólo la encontrarán los fines de semana.
 
