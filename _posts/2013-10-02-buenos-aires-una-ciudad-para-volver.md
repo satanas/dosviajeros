@@ -150,7 +150,7 @@ arbustos, flores y un par de puentecitos que por un momento me hicieron sentir
 cual Oboro-dono en la provincia de Iga :3. Perfecto para refugiarse de un
 típico día de stress con un buen libro.
 
-<img id="jardin-japones" src="https://lh5.googleusercontent.com/-nRJfUyJNdnc/UkuOt5KFnJI/AAAAAAAAAk8/mP3kafc8QFU/w785-h589-no/20130919_112851.jpg" class="with-label">
+<img id="jardin-japones" src="https://lh5.googleusercontent.com/-Bmco6irITuo/UkuO3zqBDDI/AAAAAAAAAlE/FhdMh71s2ho/w785-h589-no/20130919_113519.jpg" class="with-label">
 <label for="jardin-japones" class="image-description">Jardin Japonés</label>
 
 Si van en la mañana sáquenle provecho a esa zona y caminen un poco hasta llegar
