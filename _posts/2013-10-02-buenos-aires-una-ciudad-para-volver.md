@@ -206,7 +206,7 @@ Como siempre, más fotos de Buenos Aires en nuestro <a target="_blank" href="htt
 
 * Compren la guía T y usen el transporte público porque tiene las tres b: bueno, bonito y barato.
 * Olvídense del estilo y lleven calzado cómodo, porque la ciudad se disfruta caminando.
-* Leven ropa acorde a la temporada del año, no vayan a terminar cagándose de frío o de calor.
+* Lleven ropa acorde a la temporada del año, no vayan a terminar cagándose de frío o de calor.
 * Consiganse un mapa para que se orienten y sepan por qué caminos de la vida andan, en Florida hay un puesto de informaciones donde los regalan.
 * ¡Lleven su colesterol y triglicéridos controlados porque aquí se viene a comer carne, carajo!
 * Baires tiene delivery de helado por kilo, no digan que no les avise :3
