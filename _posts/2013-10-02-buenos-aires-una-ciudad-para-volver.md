@@ -28,10 +28,10 @@ no?
 <label for="san-martin" class="image-description">Plaza San Martin</label>
 
 Buenos Aires tiene dos aeropuertos y ambos reciben vuelos internacionales. El
-aeropuerto de Ezeiza queda en las afueras de la ciudad, si llegas ahí puedes
+aeropuerto de Ezeiza queda en las afueras, si llegas ahí puedes
 tomar un servicio de minivan, un remis o si andan muy cortos de dinero <del>y
 son realmente arriesgados</del> pueden tomar un bondi (bus) que luego de unas 3
-horas de vueltas y por unos pocos pesos los acercan a la ciudad. Si por el
+horas de vueltas y por unos pocos pesos los acercan al centro. Si por el
 contrario llegas a Aeroparque, tienes colectivos (buses) o incluso taxis porque
 el aeropuerto está en plena ciudad.
 
