@@ -87,8 +87,8 @@ lugares lindos y fancys para comer, también tiene puestos de comida rápida
 donde venden choripanes y bondiolas significativamente más económicos y muy
 ricos.
 
-<img id="plaza-de-mayo" src="https://lh3.googleusercontent.com/-LFmyJlWOK8g/UkuMyY-KiPI/AAAAAAAAAig/HcM0HfcENe8/w971-h589-no/20130913_125322.jpg" class="with-label">
-<label for="plaza-de-mayo" class="image-description">Plaza de Mayo</label>
+<img id="congreso" src="https://lh3.googleusercontent.com/-9LhnMpZV4Jg/UkuMbgwo6pI/AAAAAAAAAiI/2FeMHVJd-EQ/w785-h589-no/20130913_113931.jpg" class="with-label">
+<label for="conreso" class="image-description">Congreso de la Nación</label>
 
 Una actividad para una mañana de domingo, es irse a la feria de San Telmo donde
 además de cuero, recuerdos y cuanto perolito se imaginen, sus estrechas calles
@@ -154,7 +154,7 @@ típico día de stress con un buen libro.
 <label for="jardin-japones" class="image-description">Jardin Japonés</label>
 
 Si van en la mañana sáquenle provecho a esa zona y caminen un poco hasta llegar
-al Malba, un museo que siempre tiene colecciones que valen la pena visitar. 
+al Malba, un museo que siempre tiene exposiciones que valen la pena visitar. 
 Un poco más adelante está la Floralis Generica, una hermosa y gigante flor de
 metal cuyos alrededores tienen lindas áreas verdes para sentarse a pasar el
 rato. Al lado tienen la facultad de Derecho de la UBA que tiene una fachada con
