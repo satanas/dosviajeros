@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Misión: Rocko"
-author: "Andrea"
+author: "Andrea Rodriguez"
 author_twitter: "andrearrs"
 featured_image: "https://lh3.googleusercontent.com/-lQAqlY8lG90/UfSU2YjE2fI/AAAAAAAAAbs/hg_SoO3FuIU/w788-h591-no/20130727_151617.jpg"
 featured_label: "El peludo en cuestión"

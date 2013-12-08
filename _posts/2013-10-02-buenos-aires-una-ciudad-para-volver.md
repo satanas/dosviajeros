@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buenos Aires: Una ciudad para volver"
-author: "Andrea"
+author: "Andrea Rodriguez"
 author_twitter: "andrearrs"
 featured_image: "https://lh4.googleusercontent.com/-gy4WcLaYuAo/UkuMa1-Xe7I/AAAAAAAAAiE/KG5YeST2lgM/w986-h589-no/20130913_125138.jpg"
 featured_label: "Casa Rosada"

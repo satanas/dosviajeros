@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Se puede raspar el cupo CADIVI en Chile?"
-author: "Andrea"
+author: "Andrea Rodriguez"
 author_twitter: "andrearrs"
 featured_image: "https://lh6.googleusercontent.com/-PMXc2Aa34GU/UpNe9ZO4d2I/AAAAAAAAAxU/NwXo0-xuEMM/w785-h589-no/Un_dollar_us.jpg"
 featured_label: "Dollar – Imagen de Wikimedia"

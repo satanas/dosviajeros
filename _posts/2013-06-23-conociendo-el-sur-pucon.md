@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conociendo el sur: Pucón"
-author: "Andrea"
+author: "Andrea Rodriguez"
 author_twitter: "andrearrs"
 featured_image: "https://lh3.googleusercontent.com/-_PzsLUvI-Wc/UceHDeyV08I/AAAAAAAAANc/sFziEXLILBA/w788-h591-no/20130610_160723.jpg"
 featured_label: "Volcán Villarica"

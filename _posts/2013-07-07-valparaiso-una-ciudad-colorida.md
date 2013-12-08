@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valparaiso: Una ciudad colorida"
-author: "Wil"
+author: "Wil Alvarez"
 author_twitter: "satanas82"
 featured_image: "https://lh3.googleusercontent.com/-0FXVYB4_ZdY/UdTRLmGbXaI/AAAAAAAAASk/Z-NhqxmQLiE/w788-h591-no/DSC05969.JPG"
 featured_label: "Calles de Valpo"

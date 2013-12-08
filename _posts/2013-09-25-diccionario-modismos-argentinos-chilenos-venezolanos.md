@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diccionario de modismos argentinos, chilenos y venezolanos"
-author: "Wil"
+author: "Wil Alvarez"
 author_twitter: "satanas82"
 featured_image: "https://lh6.googleusercontent.com/-z4G9a2RJ1Bc/UkJWsfzBSXI/AAAAAAAAAhY/9F_vYxak_JE/w419-h314-no/dictionary.jpg"
 featured_label: "Diccionario"
