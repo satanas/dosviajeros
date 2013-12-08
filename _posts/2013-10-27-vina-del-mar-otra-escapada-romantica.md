@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viña del Mar: Otra escapada romántica"
-author: "Wil"
+author: "Wil Alvarez"
 author_twitter: "satanas82"
 featured_image: "https://lh6.googleusercontent.com/-RTUb9a5erxk/Um18X8_UCsI/AAAAAAAAArk/VCA34Buj8-Q/w788-h591-no/DSC06136.JPG"
 featured_label: "Vista de la costa"
