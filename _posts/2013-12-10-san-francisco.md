@@ -40,54 +40,77 @@ Pier 39 (muelle 39), el más famoso y concurrido de todos. Tiene un montón de r
 desde sitios para picar hasta locales con comidas gourmet. Hay mucha comida de mar y platos típicos de la zona, es una 
 buena opción para almorzar.
 
-Además consiguen una tienda de chocolates bue-ní-si-ma donde dicen que tienen el mejor chocolate del mundo y, aunque para mí 
-el mejor es el venezolano, este no está muy lejos.
+En el muelle 39 consiguen una tienda de chocolates bue-ní-si-ma donde dicen que tienen el mejor chocolate del mundo, aunque para mí 
+el mejor es el venezolano, este no está muy lejos, así que no se vayan sin probarlo. Es un MUST.
 
-Ahora, bajando un poco hacia el sur nos encontraremos con Lombard Street, una calle famosísima por ser la más sinuosa del 
-mundo. Vale la pena llegarle por arriba (desde Russian Hill) y tomar unas cuantas fotos, la vista es hermosa. Se ve el 
-puerto, la Torre Coit a lo lejos y, si tienen suerte, podrán ver barcos de carga llegando a desembarcar.
+Desde Fisherman&apos;s Wharf, bajando un poco hacia el sur nos encontraremos con Lombard Street, una calle famosísima por ser la más sinuosa del 
+mundo. Vale la pena llegarle por arriba (desde Russian Hill) y tomar unas cuantas fotos, la vista es hermosa. Se ve la bahía, 
+el puerto, la Torre Coit a lo lejos y si tienen suerte podrán ver barcos entrando y saliendo.
 
-Bajar Lombard Street es un tripeo, la gente disfruta mucho la bajada y la decoración es muy bonita. Muchas flores y 
+Bajar Lombard Street es muy divertido, la gente disfruta mucho la bajada y la decoración es muy bonita. Muchas flores y 
 casas pintadas con lindos colores. De verdad es un placer pasearse un rato por ahí.
 
 Siguiendo derechito por Lombard Street se llega al barrio Telegraph Hill y allí la atracción es la Torre Coit. Es una 
 torre de concreto construida en lo alto de una pequeña colina y que por dentro tiene numerosos murales y pinturas artísticas.
 Se podrán imagina que la la vista ahí también es otro espectáculo, se ve el contraste entre los muelles y los edificios 
-del Distrito Financiero, y una vista general de casi toda la ciudad.
+del Distrito Financiero, una belleza. La entrada es paga y casi siempre hay mucha gente, les recomiendo que si quieren 
+subir a la torre vayan con tiempo.
 
-Si siguen hacia el sur (por Grant Ave) llegaran al famoso barrio Chino, unas 8 cuadras de tiendas, restaurantes y 
-mucha pero mucha cultura china. No sé si será el barrio chino más extenso del mundo pero de que es extenso es extenso. 
-Si les llama la atención la comida china aquí podrán darse un festín.
+Saliendo de la Torre Coit, si siguen hacia el sur (por Grant Ave) llegaran al famoso barrio Chino. Unas 8 cuadras de 
+tiendas, restaurantes y mucha pero mucha cultura china. No sé si será el barrio chino más extenso del mundo pero de que 
+es extenso es extenso.  Si les llama la atención la comida china aquí podrán darse un festín.
 
-Al lado del barrio Chino está otro barrio llamado Nob Hill. La principal atracción aquí es el museo del Cable Car y algunos
-que otros edificios y hoteles de farándula. También tiene una pequeña iglesia llamada Grace Cathedral, de resto es un 
-barrio residencial bastante tranquilo. Una actividad que no pueden dejar de hacer si pasan por esa zona es montarse en 
-el famoso Cable Car, si bien el pasaje es algo caro (6 $US) el viaje es toda una experiencia; yo lo hice "guindado" de 
-y es muy divertido, me sentía como Jesse Katsopolis de Full House. Justo al lado de la catedral pueden tomar el Cable 
-Car que va bajando y hacen el viaje completo hasta el Distrito Financiero.
+Al lado del barrio Chino está otro barrio llamado Nob Hill. Aquí uno de los destinos a visitar es el museo del Cable Car y 
+la actividad que no pueden dejar de hacer es montarse en el Cable Car. Yo vi el pasaje medio caro (6 $US) pero al final 
+lo vale porque el viaje es toda una experiencia, yo lo hice "guindado" de los agarraderos laterales y es muy divertido, 
+me sentía como Jesse Katsopolis de Full House. También tiene una pequeña iglesia llamada Grace Cathedral y uno que otro
+edificio fancy. Justo al lado de la catedral pueden tomar el Cable Car que va bajando y así aprovechan y hacen el viaje 
+completo hasta el Distrito Financiero.
 
-Esta zona de la ciudad, como su nombre lo indica, es un barrio lleno de oficinas, torres ejecutivas y mucho movimiento.
-No hay muchas atracciones pero vale la pena conocerlo.
 
-Estando el Distrito Financiero pueden llegarse a Market Street y tomar el autobus 9 hasta la 11th Street y caminar por
-Mission Street o el F hasta Guerrero Street. Este barrio es conocidos como Mission y una de las características más 
-resaltantes de la zona es la gastronomía. La comida mexicana es absurdamente deliciosa, no se la pueden perder. Les 
-recomiendo que caminen entre la 14th y la 16th, desde Mission hasta Dolores Street. Si van de noche vayan pendientes 
-porque se puede poner menos amigable que el resto de la ciudad.
+El Distrito Financiero, como su nombre lo indica, es un barrio lleno de oficinas, torres ejecutivas y mucho movimiento.
+No hay muchas atracciones más que lo común en un área de oficinas y negocios pero vale la pena darle un vistazo.
 
-Derecho por la 16th o la 17th en sentido oeste llegarán a un barrio emblemático, conocido no sólo por el 
+Estando en el Distrito Financiero pueden llegarse a Market Street y tomar el autobus 9 hasta la 11th y buscar
+Mission Street o pueden tomar el F directo hasta Guerrero Street para llegar a Mission. Este barrio es famoso por la 
+gastronomía, de hecho la comida mexicana es absurdamente deliciosa, no se la pueden perder. Les 
+recomiendo que caminen el área entre la 14th y la 16th, desde Mission hasta Dolores Street. Si van de noche vayan 
+pendientes porque puede que no sea tan amigable.
+
+Desde Mission, derecho por la 16th o la 17th en sentido oeste llegarán a un barrio emblemático, conocido no sólo por el 
 activismo durante los 70&apos;s sino por ser líder en derechos civiles homosexuales en la actualidad; este es el famoso barrio 
 El Castro. Está influenciado con la onda gastronómica de Mission así que encontrarán muchos cafés, restaurantes y bares, 
-todos impregnados de la onda liberal y hippie que lo caracteriza.
+todos impregnados de la onda liberal y hippie que lo caracteriza. Así como en Mission, mucha comida mexicana everywhere.
 
-Saliendo de El Castro, tienen dos opciones. Si van al norte unas 10 cuadras por la calle Noe Street, llegarán a Alamo Square
-Es parte de la arquitectura victoriana que pudo preservarse luego del terremoto e incendio de 1906. Son casas muy lindas que 
-en los 80&apos;s sirvieron como paisaje para el intro de Full House y que además hacen un bello contraste con los edificios 
-del Distrito Financiero al atardecer.
+Saliendo de El Castro, si van por la calle Noe unas 10 cuadras en dirección norte, llegarán a Alamo Square. Esta zona es 
+muy peculiar pues forma parte de la arquitectura victoriana que pudieron preservar luego del terremoto e incendio de 1906. 
+Son casas lindas que en los 80&apos;s sirvieron como paisaje para el intro de Full House y que además hacen un bello 
+contraste con el resto de la ciudad de fondo al atardecer.
 
---video--
 
-Golden Gate.
+De último dejé el sitio más famoso de todos y el que seguramente han visto en más de una película, el distinguido Golden Gate.
 
+-- foto --
+
+No es que sea el puente más largo del mundo o la obra de ingeniería más compleja de nuestra época, pero tiene algo que lo
+hace especial. Quizás sea el color rojo (que cuidadosamente mantienen a través de los años) o tal vez sea un puente con 
+personalidad, lo cierto es que no se puede negar su encanto. En el recorrido hay carteles que van contando la historia
+y muestran como fue el proceso de construcción, tienen miradores para sacar fotografías y hasta canales especiales para 
+recorrerlo en bici. Es relativamente lejos así que vayan en vehículo (taxi, auto, bici) pero vale la pena, les aseguro 
+que les sobrarán vistas hermosas de la bahía 
+
+Full House, Full House, Full House. ¿Por qué hablo tanto de Full House (o Tres por Tres como la tradujeron al español)? 
+Pues porque era una de mis series favoritas y también porque fue ambientada en San Francisco. Aquí les dejo el video del intro para que
+recuerden su infancia y luego lloren al darse cuenta que las gemelas Olsen ya no son unas bebés y que el último capítulo 
+de la serie fue hace 18 años :)
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/2EL65KLdEHE" frameborder="0" allowfullscreen></iframe>
+
+Creo que no les he hablado sobre la serie Full House (traducida al español como Tres por Tres) así que les cuento, esa 
+serie estaba ambientada en San Francisco y es por eso que quizás muchas cosas nos parezcan familiares. Como por ejemplo 
+ese enorme puente rojo.
+
+Creo quComo dato curioso Y por si no lo comenté, la serie Full House era ambientada en San Francisco, por 
+No sé si en algún momento se notaron las referencias a la serie Full House 
 Si salen de El Castro en dirección oeste, se llega a Twin Peaks
 
