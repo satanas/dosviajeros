@@ -9,7 +9,7 @@ title: Dos viajeros sin memoria
         <div class="body">
             <h1><a href="{{ post.url }}/">{{ post.title }}</a></h1>
             <h2>Posteado el {{ post.date | date: "%d/%m/%Y" }} por <a href="http://twitter.com/{{ post.author_twitter }}">{{ post.author }}</a></h2>
-            <p>{{ post.content | summary }} <a class="read-more" href="{{ post.url }}">Leer más...</a></p>
+            <p>{{ post.content | summary }} <a class="read-more" href="{{ post.url }}/">Leer más...</a></p>
         </div>
         <div class="clearfix"></div>
     </div>
