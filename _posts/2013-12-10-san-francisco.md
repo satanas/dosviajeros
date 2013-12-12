@@ -40,8 +40,8 @@ Pier 39 (muelle 39), el más famoso y concurrido de todos. Tiene un montón de r
 desde sitios para picar hasta locales con comidas gourmet. Hay mucha comida de mar y platos típicos de la zona, es una 
 buena opción para almorzar.
 
-En el muelle 39 consiguen una tienda de chocolates bue-ní-si-ma donde dicen que tienen el mejor chocolate del mundo, aunque para mí 
-el mejor es el venezolano, este no está muy lejos, así que no se vayan sin probarlo. Es un MUST.
+En el muelle 39 también consiguen una tienda de chocolates bue-ní-si-ma donde dicen que tienen el mejor chocolate del mundo, 
+aunque para mí el mejor es el venezolano, este estaba muy bueno así que no se vayan sin probarlo. Es un MUST.
 
 Desde Fisherman&apos;s Wharf, bajando un poco hacia el sur nos encontraremos con Lombard Street, una calle famosísima por ser la más sinuosa del 
 mundo. Vale la pena llegarle por arriba (desde Russian Hill) y tomar unas cuantas fotos, la vista es hermosa. Se ve la bahía, 
@@ -52,19 +52,19 @@ casas pintadas con lindos colores. De verdad es un placer pasearse un rato por a
 
 Siguiendo derechito por Lombard Street se llega al barrio Telegraph Hill y allí la atracción es la Torre Coit. Es una 
 torre de concreto construida en lo alto de una pequeña colina y que por dentro tiene numerosos murales y pinturas artísticas.
-Se podrán imagina que la la vista ahí también es otro espectáculo, se ve el contraste entre los muelles y los edificios 
+Se podrán imagina lo que es la vista ahí, es otro espectáculo. Se ve el contraste entre los muelles y los edificios 
 del Distrito Financiero, una belleza. La entrada es paga y casi siempre hay mucha gente, les recomiendo que si quieren 
 subir a la torre vayan con tiempo.
 
 Saliendo de la Torre Coit, si siguen hacia el sur (por Grant Ave) llegaran al famoso barrio Chino. Unas 8 cuadras de 
-tiendas, restaurantes y mucha pero mucha cultura china. No sé si será el barrio chino más extenso del mundo pero de que 
-es extenso es extenso.  Si les llama la atención la comida china aquí podrán darse un festín.
+tiendas, restaurantes y mucha pero mucha cultura china. No sé si será el barrio chino fuera de China más extenso del 
+mundo pero de que es extenso es extenso. Si les llama la atención la comida china aquí podrán darse un festín.
 
-Al lado del barrio Chino está otro barrio llamado Nob Hill. Aquí uno de los destinos a visitar es el museo del Cable Car y 
-la actividad que no pueden dejar de hacer es montarse en el Cable Car. Yo vi el pasaje medio caro (6 $US) pero al final 
+Al lado del barrio Chino está otro barrio llamado Nob Hill. Aquí la actividad que no pueden dejar de hacer es montarse 
+en el Cable Car y visitar su museo. Yo vi el pasaje medio caro (6 $US) pero al final 
 lo vale porque el viaje es toda una experiencia, yo lo hice "guindado" de los agarraderos laterales y es muy divertido, 
 me sentía como Jesse Katsopolis de Full House. También tiene una pequeña iglesia llamada Grace Cathedral y uno que otro
-edificio fancy. Justo al lado de la catedral pueden tomar el Cable Car que va bajando y así aprovechan y hacen el viaje 
+edificio fancy. Justo al lado de la catedral pueden tomar el Cable Car que va bajando y así aprovechan de hacer el viaje 
 completo hasta el Distrito Financiero.
 
 
@@ -80,12 +80,12 @@ pendientes porque puede que no sea tan amigable.
 Desde Mission, derecho por la 16th o la 17th en sentido oeste llegarán a un barrio emblemático, conocido no sólo por el 
 activismo durante los 70&apos;s sino por ser líder en derechos civiles homosexuales en la actualidad; este es el famoso barrio 
 El Castro. Está influenciado con la onda gastronómica de Mission así que encontrarán muchos cafés, restaurantes y bares, 
-todos impregnados de la onda liberal y hippie que lo caracteriza. Así como en Mission, mucha comida mexicana everywhere.
+pero todos impregnados de la onda liberal y hippie que lo caracteriza. Así como en Mission, mucha comida mexicana everywhere.
 
 Saliendo de El Castro, si van por la calle Noe unas 10 cuadras en dirección norte, llegarán a Alamo Square. Esta zona es 
 muy peculiar pues forma parte de la arquitectura victoriana que pudieron preservar luego del terremoto e incendio de 1906. 
 Son casas lindas que en los 80&apos;s sirvieron como paisaje para el intro de Full House y que además hacen un bello 
-contraste con el resto de la ciudad de fondo al atardecer.
+contraste con la ciudad de fondo al atardecer.
 
 
 De último dejé el sitio más famoso de todos y el que seguramente han visto en más de una película, el distinguido Golden Gate.
@@ -96,21 +96,16 @@ No es que sea el puente más largo del mundo o la obra de ingeniería más compl
 hace especial. Quizás sea el color rojo (que cuidadosamente mantienen a través de los años) o tal vez sea un puente con 
 personalidad, lo cierto es que no se puede negar su encanto. En el recorrido hay carteles que van contando la historia
 y muestran como fue el proceso de construcción, tienen miradores para sacar fotografías y hasta canales especiales para 
-recorrerlo en bici. Es relativamente lejos así que vayan en vehículo (taxi, auto, bici) pero vale la pena, les aseguro 
-que les sobrarán vistas hermosas de la bahía 
+recorrerlo en bici; pero es relativamente lejos así que vayan en vehículo (taxi, auto, bici). Dicen que la 
+mejor época es a principios de otoño porque no hay casi neblina y se ve todo clarito.
 
-Full House, Full House, Full House. ¿Por qué hablo tanto de Full House (o Tres por Tres como la tradujeron al español)? 
-Pues porque era una de mis series favoritas y también porque fue ambientada en San Francisco. Aquí les dejo el video del intro para que
-recuerden su infancia y luego lloren al darse cuenta que las gemelas Olsen ya no son unas bebés y que el último capítulo 
-de la serie fue hace 18 años :)
+Me faltaron dos sitios importantes 
+por visitar, Twin Peaks y el Golden Gate Park, pero esos los dejo de tarea para la próxima visita.
+
+Full House, Full House, Full House. ¿Se preguntarán por qué hablo tanto de Full House (o Tres por Tres como la 
+tradujeron al español)? Pues porque era una de mis series favoritas y también porque fue ambientada en San Francisco. 
+Así que aquí les dejo el intro para que recuerden su infancia y luego lloren al darse cuenta que las gemelas Olsen ya 
+no son unas bebés y que el último capítulo de la serie fue hace 18 años :)
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/2EL65KLdEHE" frameborder="0" allowfullscreen></iframe>
-
-Creo que no les he hablado sobre la serie Full House (traducida al español como Tres por Tres) así que les cuento, esa 
-serie estaba ambientada en San Francisco y es por eso que quizás muchas cosas nos parezcan familiares. Como por ejemplo 
-ese enorme puente rojo.
-
-Creo quComo dato curioso Y por si no lo comenté, la serie Full House era ambientada en San Francisco, por 
-No sé si en algún momento se notaron las referencias a la serie Full House 
-Si salen de El Castro en dirección oeste, se llega a Twin Peaks
 
