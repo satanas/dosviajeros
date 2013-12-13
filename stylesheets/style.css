@@ -275,6 +275,11 @@ footer #license .icon {
     display: block;
 }
 
+.centered {
+    margin: 0px auto;
+    text-align: center;
+}
+
 .clearfix:before, .clearfix:after {
     content: ".";
     display: block;
