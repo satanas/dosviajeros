@@ -96,7 +96,7 @@ No hay muchas atracciones más que lo común en un área de oficinas y negocios 
 Estando en el Distrito Financiero pueden llegarse a Market Street y tomar el autobus 9 hasta la 11th y buscar
 Mission Street o pueden tomar el F directo hasta Guerrero Street para llegar a Mission. Este barrio es famoso por la 
 gastronomía, de hecho la comida mexicana es absurdamente deliciosa, no se la pueden perder. Les 
-recomiendo que caminen el área entre la 14th y la 16th, desde Mission hasta Dolores Street. Si van de noche vayan 
+recomiendo que caminen el área entre la 14th y la 16th, desde Mission hasta Dolores Street. Si van de noche estén 
 pendientes porque puede que no sea tan amigable.
 
 <img id="mission" src="http://upload.wikimedia.org/wikipedia/commons/9/91/Mission_San_Francisco_de_Asis.JPG" class="with-label">
@@ -110,7 +110,7 @@ pero todos impregnados de la onda liberal y hippie que lo caracteriza. Así como
 <img id="el-castro" src="http://farm3.staticflickr.com/2497/4139794904_928852891f_o.jpg" class="with-label">
 <label for="el-castro" class="image-description">Barrio El Castro (Foto: <a href="http://www.flickr.com/people/cdrewing/">d4yw41k3r</a>)</label>
 
-A El Castro y a Mission me tocó ir de noche, así que no pude tomar buenas fotos, no me quedó de otra que tomar algunas prestadas.
+A El Castro y a Mission me tocó ir al final de la tarde, así que no pude tomar buenas fotos. No me quedó de otra que tomar algunas prestadas.
 
 Saliendo de El Castro, si van por la calle Noe unas 10 cuadras en dirección norte, llegarán a Alamo Square. Esta zona es 
 muy peculiar pues forma parte de la arquitectura victoriana que pudieron preservar luego del terremoto e incendio de 1906. 
@@ -121,7 +121,7 @@ contraste con la ciudad de fondo al atardecer.
 <label for="alamo-square" class="image-description">Alamo Square</label>
 
 
-De último dejé el sitio más famoso de todos y el que seguramente han visto en más de una película, el distinguido Golden Gate.
+De último dejé el sitio más famoso de todos y el que seguramente habrán visto en más de una película, me refiero al distinguido Golden Gate.
 
 <img id="golden-gate" src="https://lh4.googleusercontent.com/--APOWYF0KJI/Uqkv68X83rI/AAAAAAAAA1I/XuN6rSt7-O4/w785-h589-no/20131012_193549.jpg" class="with-label">
 <label for="golden-gate" class="image-description">Golden Gate</label>
@@ -142,6 +142,8 @@ Así que aquí les dejo el intro para que recuerden su infancia y luego lloren a
 no son unas bebés y que el último capítulo de la serie fue hace 18 años :)
 
 <div class="centered"><iframe width="420" height="315" src="http://www.youtube.com/embed/2EL65KLdEHE" frameborder="0" allowfullscreen></iframe></div>
+
+<br/>
 
 <h3>ProTips&reg;:</h3>
 
