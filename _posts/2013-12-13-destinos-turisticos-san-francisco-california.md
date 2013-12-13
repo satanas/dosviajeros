@@ -30,7 +30,7 @@ para conocer las instalaciones.
 <label for="at&t-park" class="image-description">AT&T Park</label>
 
 
-Luego, pueden caminar por Embarcaderos, una calle larguísima que bordea la costa Este y que comunica a todo el puerto 
+Luego, pueden caminar por Embarcaderos, una calle larguísima que bordea la bahía y que comunica a todo el puerto 
 de la ciudad. No sólo podrán ver un montón de barcos atracados, sino que también se encontrarán con restaurancitos de comida rápida
 que deben ser los más populares luego que termina un juego de pelota. Pasarán por debajo del puente que comunica a
 San Francisco con Oakland y se encontrarán con el edificio Ferry, considerado el centro del barrio y el lugar desde 
@@ -133,7 +133,7 @@ y muestran como fue el proceso de construcción, tienen miradores para sacar fot
 recorrerlo en bici; pero es relativamente lejos así que vayan en vehículo (taxi, auto, bici). Dicen que la 
 mejor época es a principios de otoño porque no hay casi neblina y se ve todo clarito.
 
-Me faltaron dos sitios importantes por visitar, Twin Peaks y el Golden Gate Park, pero esos los dejo de tarea para la próxima visita.
+Me faltaron otros sitios importantes por visitar como el barrio Marina, Twin Peaks y el Golden Gate Park, pero esos los dejo de tarea para la próxima visita.
 Como de costumbre, pueden ver más fotos en nuestro <a href="https://plus.google.com/u/0/b/109580611265902807643/photos/109580611265902807643/albums/5956343171706436465">álbum de Google+</a>
 
 Que Full House esto, que Full House lo otro... Seguro se preguntarán por qué hablo tanto de Full House (o Tres por Tres como la 
