@@ -110,8 +110,6 @@ pero todos impregnados de la onda liberal y hippie que lo caracteriza. Así como
 <img id="el-castro" src="http://farm3.staticflickr.com/2497/4139794904_928852891f_o.jpg" class="with-label">
 <label for="el-castro" class="image-description">Barrio El Castro (Foto: <a href="http://www.flickr.com/people/cdrewing/">d4yw41k3r</a>)</label>
 
-A El Castro y a Mission me tocó ir al final de la tarde, así que no pude tomar buenas fotos. No me quedó de otra que tomar algunas prestadas.
-
 Saliendo de El Castro, si van por la calle Noe unas 10 cuadras en dirección norte, llegarán a Alamo Square. Esta zona es 
 muy peculiar pues forma parte de la arquitectura victoriana que pudieron preservar luego del terremoto e incendio de 1906. 
 Son casas lindas que en los 80&apos;s sirvieron como paisaje para el intro de Full House y que además hacen un bello 
@@ -121,7 +119,7 @@ contraste con la ciudad de fondo al atardecer.
 <label for="alamo-square" class="image-description">Alamo Square</label>
 
 
-De último dejé el sitio más famoso de todos y el que seguramente habrán visto en más de una película, me refiero al distinguido Golden Gate.
+Para el final dejé el sitio más famoso de todos y el que seguramente habrán visto en más de una película, me refiero al distinguido Golden Gate.
 
 <img id="golden-gate" src="https://lh4.googleusercontent.com/--APOWYF0KJI/Uqkv68X83rI/AAAAAAAAA1I/XuN6rSt7-O4/w785-h589-no/20131012_193549.jpg" class="with-label">
 <label for="golden-gate" class="image-description">Golden Gate</label>
@@ -148,7 +146,7 @@ no son unas bebés y que el último capítulo de la serie fue hace 18 años :)
 <h3>ProTips&reg;:</h3>
 
 * Vayan preparados para las subidas. Casi todas las calles son empinadas porque los barrios están en colinas
-* Métanse en Groupon, siempre hay buenos deals en esa zona
+* Métanse en <a href="http://www.groupon.com/browse/san-francisco">www.groupon.com</a>, siempre hay buenos deals en esa zona
 * Usen Google Maps, funciona de maravillas con los trenes y el transporte público
 
 ¿Conoces otro sitio de interés que no haya mencionado? Déjanos un comentario
