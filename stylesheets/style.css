@@ -224,6 +224,8 @@ h2 {
     display: block;
     float: left;
     width: 200px;
+    font-family: 'Raleway', sans-serif;
+    color: #f1592a;
 }
 
 /* Archive */

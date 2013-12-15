@@ -12,23 +12,25 @@
                 <!-- Author rank -->
                 <h2>Posteado el {{ page.date | date: "%d de %m de %Y" }} por <a rel="author" href="{{ page.author_rank }}?rel=author">{{ page.author }}</a></h2>
 
+                <div class="body">
+                    <img id="featured" class="featured" title="{{ page.featured_label }}" alt="{{ page.featured_label }}" src="{{ page.featured_image }}" />
+                    <label for="featured" class="image-description">{{ page.featured_label }}</label>
+                    {{ content }}
+                </div>
+
                 <div id="social">
+                    <span>COMPARTE ESTE ARTÍCULO</span>
                     <div>
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}" data-text="{{ page.title }}">Tweet</a>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ page.author_twitter }}" data-text="{{ page.title }}">Twittear</a>
                     </div>
                     <div>
                         <p><g:plusone size="medium"></g:plusone></p>
                     </div>
                     <div>
-                        <div class="fb-send" data-href="{{ post.url }}" data-font="verdana"></div>
+                        <!-- <div class="fb-send" data-href="{{ post.url }}" data-font="verdana"></div> -->
+                        <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="true"></div>
                     </div>
-                </div>
-                <div class="clearfix"></div>
-
-                <div class="body">
-                    <img id="featured" class="featured" title="{{ page.featured_label }}" alt="{{ page.featured_label }}" src="{{ page.featured_image }}" />
-                    <label for="featured" class="image-description">{{ page.featured_label }}</label>
-                    {{ content }}
+                    <div class="clearfix"></div>
                 </div>
 
                 <br/>
