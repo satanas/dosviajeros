@@ -209,7 +209,9 @@ h2 {
 }
 
 #social {
-    margin-bottom: 20px;
+    float: left;
+    padding: 8px 8px 5px 8px;
+    margin-bottom: 25px;
     border: 1px solid #ddd;
 }
 
