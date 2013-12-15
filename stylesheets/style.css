@@ -210,11 +210,18 @@ h2 {
 
 #social {
     margin-bottom: 20px;
+    border: 1px solid #ddd;
 }
 
 #social div {
     float: left;
     width: 120px;
+}
+
+#social span {
+    display: block;
+    float: left;
+    width: 200px;
 }
 
 /* Archive */
