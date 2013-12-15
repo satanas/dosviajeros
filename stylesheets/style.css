@@ -217,15 +217,16 @@ h2 {
 
 #social div {
     float: left;
-    width: 120px;
+    width: 110px;
 }
 
 #social span {
     display: block;
     float: left;
-    width: 200px;
+    width: 180px;
     font-family: 'Raleway', sans-serif;
     color: #f1592a;
+    font-size: 16px;
 }
 
 /* Archive */
