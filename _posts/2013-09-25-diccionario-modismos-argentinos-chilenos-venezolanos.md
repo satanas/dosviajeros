@@ -18,7 +18,9 @@ de Latinoamérica. Es por esto que elaboré éste pequeño diccionario de modism
 
 {% include feature_image.html %}
 
-<div style="width:560px; margin: 0 auto;"><iframe width="560" height="315" src="http://www.youtube.com/watch?v=Xyp7xt-ygy0" frameborder="0" allowfullscreen></iframe></div>
+<div style="width:560px; margin: 0 auto;">
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/Xyp7xt-ygy0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ¿Por qué sólo incluyen términos de Argentina, Chile y Venezuela? Pues muy simple, porque son los únicos países que conozco 
 hasta ahora <del>pero pueden mandarme dinero para conocer más países y ampliar el diccionario</del>.
