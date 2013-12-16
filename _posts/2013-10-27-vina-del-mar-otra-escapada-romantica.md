@@ -17,6 +17,8 @@ y de cómo pasar un lindo fin de semana en una escapada romántica. Lo que no le
 convirtió en parte del plan, así que vamos a continuar el viaje con un poco de sol, arena y playa :)
 <!-- summary -->
 
+{% include feature_image.html %}
+
 Si ya están en Valpo, se van a Molina con Errazuriz y toman la micro blanca con verde que dice "Viña del Mar", el pasaje
 sale como en 300 pesos y en unos 10 minutos los deja en la ciudad. Si están en Santiago se van al terminal de La 
 Alameda y toman un autobus directo a Viña, el pasaje ronda los 3.000 pesos y tarda cerca de una hora y media.

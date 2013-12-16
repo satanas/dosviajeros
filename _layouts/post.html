@@ -13,8 +13,6 @@
                 <h2>Posteado el {{ page.date | date: "%d de %b de %Y" }} por <a rel="author" href="{{ page.author_rank }}?rel=author">{{ page.author }}</a></h2>
 
                 <div class="body">
-                    <img id="featured" class="featured" title="{{ page.featured_label }}" alt="{{ page.featured_label }}" src="{{ page.featured_image }}" />
-                    <label for="featured" class="image-description">{{ page.featured_label }}</label>
                     {{ content }}
                 </div>
 

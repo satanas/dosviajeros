@@ -15,6 +15,8 @@ celebraba el Día del Patrimonio. Nos enteramos de esta actividad gracias a <a h
 una estupenda amiga chilena que nos compartió este dato.
 <!-- summary -->
 
+{% include feature_image.html %}
+
 El Día del Patrimonio Cultural es una actividad anual celebrada en Chile el último domingo de mayo y que tiene como finalidad
 permitir al público en general conocer y disfrutar del patrimonio cultural, histórico y arquitectónico del país &lt;/wikipedia&gt;.
 Esto nos generó mucha curiosidad, sobre todo porque hay sitios que abren al público únicamente ese día y como aún tenemos poco

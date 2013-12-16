@@ -17,6 +17,8 @@ el Golden Gate. Sin embargo, la ciudad de San Francisco es mucho más que eso y 
 en este artículo. Es más, luego de haberla conocido les aseguro que podría acostumbrarme *fácilmente* a vivir ahí ;)
 <!-- summary -->
 
+{% include feature_image.html %}
+
 El aeropuerto queda como a 25 km de la ciudad, así que si llegan vía aérea pueden llegar a su destino tomando un taxi 
 o usando el transporte público, es bastante fácil y funciona muy bien. La otra opción es llegar a San Francisco en tren (desde otra parte
 de California), en ambos casos es recomendable llegar a la estación de Caltrain de San Francisco.

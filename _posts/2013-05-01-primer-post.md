@@ -11,3 +11,5 @@ meta_robots: "noodp, noydir"
 ¡Hola mundo! Este es nuestro primer post. Andrea y yo estaremos aquí para compartir nuestras experiencias 
 de viajeros con todos ustedes. Ojalá lo disfruten tanto como nosotros.
 <!-- summary -->
+
+{% include feature_image.html %}

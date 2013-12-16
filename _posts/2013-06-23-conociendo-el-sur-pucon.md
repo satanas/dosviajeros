@@ -16,6 +16,8 @@ que suele caracterizar a las grandes ciudades y <strike>que me saca de mis casí
 adepta. El olor a leña calentando los hogares de esta gente es embriagante y su ubicación es realmente privilegiada.
 <!-- summary -->
 
+{% include feature_image.html %}
+
 En Pucón viven unas 25.000 personas y todo es de madera (incluyendo los letreros y señalizaciones) y
 a tan solo 14 km en dirección sureste descansa el volcán de Villarica, el responsable de brindarte la mejor y más hermosa 
 vista que podrias soñar tener en cada amanecer y puesta de sol de tu vida. Este volcán, cuyo nombre en Mapuche es Rucapillan 

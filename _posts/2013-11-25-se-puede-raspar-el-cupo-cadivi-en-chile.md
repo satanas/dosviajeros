@@ -17,6 +17,8 @@ mejores aliados. Emigrar no es algo que se deba hacer a la ligera sean cuales
 sean los motivos que te llevaron a decidirlo.
 <!-- summary -->
 
+{% include feature_image.html %}
+
 Hay que dejar en la medida de lo posible todo en orden antes de irse pero ademas de eso, hay que entrar en
 contexto con el lugar que hayas elegido. En una tarde de intensa búsqueda me
 tope con <a href="http://www.elbauldemary.com/">El Baúl de Mary</a>, un sitio con información

@@ -14,6 +14,8 @@ Muchas personas me han pedido consejos acerca de como enfrentar el frío, bien s
 se mudan de un país tropical a uno con las 4 estaciones, así que decidí compartir algunas recomendaciones en este post.
 <!-- summary -->
 
+{% include feature_image.html %}
+
 Lo primero que quiero dejar bien claro es lo siguiente: **Aclimatarse no es pasar frío**. Punto.
 
 Mucha gente cree que aclimatarse es salir a la calle a 0ºC, semi-desnudo y aguantar el frío. Nada más lejos de la realidad. 

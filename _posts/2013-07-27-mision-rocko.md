@@ -17,6 +17,9 @@ que contaremos a continuación es especial y amerita una excepción.
 Era un sábado normal, veníamos de regreso de hacer las compras de frutas y vegetales en el mercado municipal, 
 como nos gusta hacer los fines. Al llegar a Curicó con San Isidro vimos a un perrito salir de un arbusto, estaba olfateando 
 todo a su alrededor buscando que comer. <!-- summary -->
+
+{% include feature_image.html %}
+
 No pude evitar hacer un ademan de cariño y con un chasquido de dedos 
 comenzó a seguirnos. El perrito en cuestión estaba visiblemente enfermo, su pelaje afectado por enfermedades 
 de la piel y heridas varias, pero a pesar de eso no dejaba de mover la colita ante cualquier gesto de cariño nuestro. 

@@ -16,6 +16,8 @@ el litoral central de Chile que destaca por su gran valor cultural y sus llamati
 
 <!-- summary -->
 
+{% include feature_image.html %}
+
 Para llegar desde Santiago hay varias opciones, entre ellas tomar el 
 metro hasta la estación Universidad de Santiago de Chile (línea 1) e ir al terminal de
 autobuses de La Alameda. Ahí disponen de varias alternativas para viajar, desde autobuses

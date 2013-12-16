@@ -19,6 +19,9 @@ turísticos como Bariloche, me mantuvieron cautiva en Baires unos días más de
 los planeados. Gracias a ese incidente tuve la oportunidad de coquetear un poco
 con la ciudad, pero vaya que no fue suficiente. Así que decidimos volver, que la ciudad da para eso y más.
 <!-- summary -->
+
+{% include feature_image.html %}
+
 Elegimos ir en fechas de agonizante invierno y
 tímida primavera esperando que el clima nos favoreciera con un par de lindos
 días, y los tuvimos, además de brisa con frío, lluvia y calor ¿un poco errático
